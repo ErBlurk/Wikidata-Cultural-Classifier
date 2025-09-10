@@ -1,0 +1,301 @@
+item,name,type,category,subcategory,title,page_length,num_links,mean_sitelinks_count,median_sitelinks_count,std_sitelinks_count
+http://www.wikidata.org/entity/Q2427430,Northeast Flag Replacement,concept,History,historical event,Northeast Flag Replacement,2156,18,68.05555555555556,45.5,55.538247303819794
+http://www.wikidata.org/entity/Q125482,imam,concept,philosophy and religion,religious leader,Imam,5134,62,71.51666666666667,56.5,69.72003338751033
+http://www.wikidata.org/entity/Q15789,FC Bayern Munich,named entity,sports,sports club,FC Bayern Munich,49066,369,48.81767955801105,33.0,53.145686530757075
+http://www.wikidata.org/entity/Q582496,Fome Zero,named entity,politics,government agency,Fome Zero,4791,25,56.583333333333336,40.0,62.62581780348705
+http://www.wikidata.org/entity/Q572811,Anthony Award,named entity,Literature,literary award,Anthony Awards,428,5,15.5,15.0,8.616843969807043
+http://www.wikidata.org/entity/Q1866547,Livraria Bertrand,named entity,Books,bookstore,Livraria Bertrand,7620,17,91.3125,52.0,96.42530707106927
+http://www.wikidata.org/entity/Q19081,prokaryotes,concept,Biology,organism,Prokaryote,14658,142,57.014388489208635,42.0,51.35880072272341
+http://www.wikidata.org/entity/Q474090,narrative poetry,concept,Literature,poetry,Narrative poetry,2309,31,76.16129032258064,69.0,50.31263342547312
+http://www.wikidata.org/entity/Q1266300,Neue Slowenische Kunst,named entity,Visual Arts,art movement,Neue Slowenische Kunst,3585,43,86.8,65.0,80.5624602404867
+http://www.wikidata.org/entity/Q193654,short-track speed skating,concept,sports,sport,Short-track speed skating,3124,22,85.86363636363636,63.5,95.3077767763449
+http://www.wikidata.org/entity/Q372,We Live in Public,named entity,Films,film,We Live in Public,2267,23,40.55,23.0,51.360953067481134
+http://www.wikidata.org/entity/Q820887,University of Florence,named entity,History,archive,University of Florence,3266,37,86.38235294117646,69.0,70.1888271257413
+http://www.wikidata.org/entity/Q503269,seamount,concept,Geography,mountain,Seamount,23439,171,60.35294117647059,37.0,63.49214048300929
+http://www.wikidata.org/entity/Q57318,free imperial city,concept,Geography,city,Free imperial city,15004,95,77.86170212765957,64.5,61.82845194118309
+http://www.wikidata.org/entity/Q25239,Alnus,concept,Biology,tree,Alder,7958,72,69.56338028169014,48.0,62.48689606727951
+http://www.wikidata.org/entity/Q47195,trick-or-treating,concept,Gestures and habits,tradition,Trick-or-treating,23051,107,75.6826923076923,46.5,82.57202734851425
+http://www.wikidata.org/entity/Q83368,empiricism,concept,philosophy and religion,philosophical movement,Empiricism,31787,181,69.73595505617978,52.0,57.02988522132524
+http://www.wikidata.org/entity/Q42601,David Ginola,named entity,Fashion,model,David Ginola,17068,110,56.174311926605505,51.0,41.761191772841244
+http://www.wikidata.org/entity/Q654057,Tuscan order,concept,architecture,architectural style,Tuscan order,6023,58,46.62068965517241,39.0,44.92631038758488
+http://www.wikidata.org/entity/Q446523,epyllion,concept,Literature,literary genre,Epyllion,5065,30,49.766666666666666,43.0,43.17150552029531
+http://www.wikidata.org/entity/Q1695743,post in ground,concept,architecture,building,Post in ground,1978,16,24.214285714285715,17.0,21.438212117047218
+http://www.wikidata.org/entity/Q5188176,cross-gender acting,concept,Films,acting style,Cross-gender acting,17010,100,47.16326530612245,29.0,46.84117625998955
+http://www.wikidata.org/entity/Q154168,toast,concept,Gestures and habits,ritual,Toast (honor),13078,38,61.28947368421053,50.0,49.77259227555116
+http://www.wikidata.org/entity/Q13473,beIN SPORTS,named entity,media,media company,BeIN Sports,29419,184,53.005494505494504,39.0,57.44567402612579
+http://www.wikidata.org/entity/Q2088191,philosopher king,concept,philosophy and religion,philosopher,Philosopher king,10473,38,96.44736842105263,97.5,65.66529860164509
+http://www.wikidata.org/entity/Q15003,escalator,concept,transportation,mode of transport,Escalator,25717,85,55.294871794871796,32.0,62.5160715694032
+http://www.wikidata.org/entity/Q510548,Tour Méditerranéen,named entity,sports,recurring sporting event,La Méditerranéenne,2026,28,47.035714285714285,31.5,46.84738302102229
+http://www.wikidata.org/entity/Q672556,Boxer Protocol,named entity,Books,book,Boxer Protocol,7492,32,69.25806451612904,50.0,67.71332729255073
+http://www.wikidata.org/entity/Q738377,student newspaper,named entity,media,magazine,Student publication,13974,94,51.32967032967033,22.0,78.37456625816218
+http://www.wikidata.org/entity/Q170980,obelisk,concept,History,monument,Obelisk,16679,159,77.69677419354839,48.0,77.49175807941987
+http://www.wikidata.org/entity/Q242791,Kyokushin kaikan,named entity,sports,sports team,Kyokushin,22535,104,57.98823529411764,20.0,87.38804523404211
+http://www.wikidata.org/entity/Q159488,anti-tobacco movement in Nazi Germany,concept,politics,policy,Anti-tobacco movement in Nazi Germany,33493,147,75.93571428571428,52.5,78.09373586679442
+http://www.wikidata.org/entity/Q5409,Peire Rogier,named entity,Literature,poet,Peire Rogier,2825,18,35.44444444444444,33.5,26.211155856963362
+http://www.wikidata.org/entity/Q748822,private press,concept,Literature,publisher,Private press,6618,49,38.47826086956522,27.5,45.2201086140047
+http://www.wikidata.org/entity/Q578798,Council of Government of the Region of Murcia,named entity,politics,government,Council of Government of the Region of Murcia,641,9,111.22222222222223,98.0,105.6501330679898
+http://www.wikidata.org/entity/Q1145,Jean-Philippe Rameau,named entity,Performing arts,choreographer,Jean-Philippe Rameau,28177,127,41.71666666666667,23.0,51.061920471347555
+http://www.wikidata.org/entity/Q169990,Eleventh Amendment to the United States Constitution,named entity,politics,law,Eleventh Amendment to the United States Constitution,7147,66,44.44615384615385,15.0,60.07073542447995
+http://www.wikidata.org/entity/Q6406716,Castillo Douglas,named entity,architecture,construction,Castillo Douglas,697,14,95.0,70.0,89.82305838804321
+http://www.wikidata.org/entity/Q1323191,costume designer,concept,Fashion,designer,Costume designer,3911,23,21.09090909090909,11.5,29.230913105678646
+http://www.wikidata.org/entity/Q66844,Lamboing,named entity,Geography,neighborhood,Lamboing,9770,51,82.1,48.0,82.13044502497232
+http://www.wikidata.org/entity/Q365065,bitter lemon,concept,food,drink,Bitter lemon,635,9,56.75,46.0,46.932797700542
+http://www.wikidata.org/entity/Q546206,Miami bass,concept,Music,music genre,Miami bass,6242,69,32.19117647058823,7.0,47.72169852782508
+http://www.wikidata.org/entity/Q82288,Psychrolutes marcidus,concept,Biology,fish,Psychrolutes marcidus,1022,14,116.23076923076923,99.0,87.24426703329861
+http://www.wikidata.org/entity/Q488205,singer-songwriter,concept,Music,musical profession,Singer-songwriter,29062,345,41.825581395348834,31.5,36.97035011266024
+http://www.wikidata.org/entity/Q487734,Croatian folk costume,concept,Fashion,traditional costume,Croatian national costume,16650,64,100.09375,56.0,95.3509502361539
+http://www.wikidata.org/entity/Q253241,Su Nuraxi di Barumini,named entity,History,museum,Su Nuraxi (Barumini),3572,14,115.28571428571429,126.0,83.03650537257572
+http://www.wikidata.org/entity/Q217392,Open Season 2,named entity,Comics and Anime,animated film,Open Season 2,6935,24,80.0,54.0,97.89923835028145
+http://www.wikidata.org/entity/Q1776053,city comedy,concept,Performing arts,theatrical genre,City comedy,2783,36,50.02777777777778,25.5,64.49913268629238
+http://www.wikidata.org/entity/Q3154160,Julia Vysotskaya,named entity,food,cook,Julia Vysotskaya,1753,16,93.125,45.0,100.46446822135675
+http://www.wikidata.org/entity/Q53044,Elio Petri,named entity,Films,film director,Elio Petri,6611,56,43.4,24.0,50.33762373847581
+http://www.wikidata.org/entity/Q852061,champion,named entity,sports,athlete,Champion,2346,21,65.75,62.0,54.84421118039715
+http://www.wikidata.org/entity/Q201565,nori,concept,food,ingredient,Nori,7448,69,64.59701492537313,43.0,61.91690621043189
+http://www.wikidata.org/entity/Q264972,740 Park Avenue,named entity,architecture,architectural structure,740 Park Avenue,4316,40,39.55263157894737,21.0,51.9137429165063
+http://www.wikidata.org/entity/Q5219853,Danish philosophy,concept,philosophy and religion,philosophy,Danish philosophy,819,14,98.38461538461539,71.0,80.95919053785295
+http://www.wikidata.org/entity/Q242095,Dino Buzzati,named entity,Comics and Anime,comics artist,Dino Buzzati,3725,32,56.74193548387097,41.0,54.84933483405039
+http://www.wikidata.org/entity/Q438464,alternative comics,concept,Comics and Anime,comics,Alternative comics,6868,67,16.223880597014926,11.0,20.384967314265023
+http://www.wikidata.org/entity/Q55439,panel painting,concept,Visual Arts,painting,Panel painting,13141,88,84.60919540229885,63.0,71.40468388671584
+http://www.wikidata.org/entity/Q1650915,researcher,concept,Books,non-fiction writer,Researcher,29454,140,59.992537313432834,36.5,68.0949179803902
+http://www.wikidata.org/entity/Q2250579,Shu'ubiyya,concept,philosophy and religion,religious movement,Shu'ubiyya,2892,35,65.42857142857143,45.0,64.91369466531728
+http://www.wikidata.org/entity/Q177220,singer,named entity,Music,musician,Singer,37772,196,53.47938144329897,40.0,47.43320955501064
+http://www.wikidata.org/entity/Q47520669,diplomatician,concept,History,historian,Diplomatist,8957,44,86.95454545454545,66.0,67.89663083937849
+http://www.wikidata.org/entity/Q182950,Studio Ghibli,named entity,Comics and Anime,animation studio,Studio Ghibli,27289,167,38.778481012658226,29.0,37.236776332232736
+http://www.wikidata.org/entity/Q1154859,rock festival,concept,Music,music festival,Rock festival,7687,40,24.85,12.5,32.18116685267953
+http://www.wikidata.org/entity/Q31454881,Baldegg Kloster railway station,named entity,transportation,station,Baldegg Kloster railway station,291,7,117.14285714285714,84.0,108.76242598490735
+http://www.wikidata.org/entity/Q62855,Alexander Braun,named entity,Biology,biologist,Alexander Braun,2611,31,49.7,32.0,47.84499277179727
+http://www.wikidata.org/entity/Q254907,genrō,concept,politics,politician,Genrō,1546,21,69.14285714285714,60.0,66.11338436229637
+http://www.wikidata.org/entity/Q591942,distributary,concept,Geography,river,Distributary,5206,83,66.7,39.5,69.84847886675844
+http://www.wikidata.org/entity/Q942219,kanga,named entity,Fashion,clothing,Kanga (garment),5557,24,116.73913043478261,106.0,79.18894158156853
+http://www.wikidata.org/entity/Q178671,Theosophy,concept,philosophy and religion,religion,Theosophy,45369,192,65.18518518518519,43.0,69.1210317428676
+http://www.wikidata.org/entity/Q890057,body modification,concept,Gestures and habits,mores,Body modification,1862,16,44.06666666666667,35.0,33.78454610551332
+http://www.wikidata.org/entity/Q6839890,Microphotography,concept,Literature,writing style,Microphotography (literature),712,10,24.11111111111111,25.0,17.540077565040992
+http://www.wikidata.org/entity/Q5180408,Crackle,concept,media,streaming service,Crackle (service),5676,59,44.94642857142857,25.0,64.11301952769955
+http://www.wikidata.org/entity/Q10798,Sus,named entity,Biology,animal,Sus (genus),14238,118,88.99145299145299,75.0,70.32786413618142
+http://www.wikidata.org/entity/Q354239,minor party,named entity,politics,political party,Minor party,11639,94,41.97849462365591,27.0,52.25886321793286
+http://www.wikidata.org/entity/Q61391,cheerleading,concept,Performing arts,dance,Cheerleading,46177,127,58.408,36.0,69.58322740431059
+http://www.wikidata.org/entity/Q32491,Qantas,named entity,media,production company,Qantas,52837,221,51.21596244131455,29.0,65.99459594207146
+http://www.wikidata.org/entity/Q704948,body double,concept,Performing arts,actor,Double (occupation),5893,51,40.95918367346939,26.0,41.838347405452396
+http://www.wikidata.org/entity/Q6379416,Kawabata Evaluation System,concept,Fashion,textile,Kawabata evaluation system,661,3,100.0,100.0,18.0
+http://www.wikidata.org/entity/Q1451709,women's cinema,concept,Films,film genre,Women's cinema,102824,912,26.446448703494926,15.0,35.61536989938989
+http://www.wikidata.org/entity/Q266569,animator,concept,Visual Arts,artist,Animator,7024,33,42.60606060606061,34.0,40.25218939570669
+http://www.wikidata.org/entity/Q170593,collaging,concept,Visual Arts,visual arts,Collage,22857,184,66.44505494505495,39.0,72.81668050016367
+http://www.wikidata.org/entity/Q828043,bouillabaisse,concept,food,dish,,0,0,0.0,0.0,0.0
+http://www.wikidata.org/entity/Q276452,Goliath Artists,named entity,Music,record label,Goliath Artists,672,7,90.16666666666667,44.0,87.67442931411391
+http://www.wikidata.org/entity/Q374852,Glück auf,concept,Gestures and habits,greeting,Glück auf,2311,10,35.5,39.0,20.180436070610565
+http://www.wikidata.org/entity/Q23529,message in a bottle,concept,transportation,transport,Message in a bottle,14210,68,49.92537313432836,39.0,51.272265184011296
+http://www.wikidata.org/entity/Q39336,Rome Film Festival,named entity,Films,film festival,Rome Film Festival,1905,8,69.85714285714286,58.0,67.14255319080138
+http://www.wikidata.org/entity/Q59187,Vauxhall,named entity,transportation,automobile manufacturer,Vauxhall Motors,63245,285,46.419928825622776,24.0,69.78631462975729
+http://www.wikidata.org/entity/Q49000490,council architect,concept,architecture,architect,Council architect,2337,12,74.33333333333333,23.5,104.3338658133377
+http://www.wikidata.org/entity/Q5139107,coca flour,concept,food,food,Coca flour,776,29,100.89655172413794,74.0,84.14697520639263
+http://www.wikidata.org/entity/Q564278,Meunière sauce,concept,food,cooking technique,,0,0,0.0,0.0,0.0
+http://www.wikidata.org/entity/Q438533,alternative manga,concept,Comics and Anime,manga,Alternative manga,3158,15,36.4,18.0,40.01632999997209
+http://www.wikidata.org/entity/Q308876,stop-motion,concept,Comics and Anime,animation technique,Stop motion,42487,346,29.91764705882353,16.0,38.091518822808496
+http://www.wikidata.org/entity/Q1320698,Strawberry Field,named entity,Geography,geographic location,Strawberry Field,4108,21,47.04761904761905,23.0,54.18792361550346
+http://www.wikidata.org/entity/Q18545,ball,concept,sports,sports equipment,Ball,7158,55,89.33333333333333,66.0,73.29342348346081
+http://www.wikidata.org/entity/Q9381,Adam Smith,named entity,Literature,writer,Adam Smith,52198,189,48.613756613756614,35.0,48.81401937972589
+http://www.wikidata.org/entity/Q338367,Accademia Carrara,named entity,Visual Arts,art gallery,Accademia Carrara,2048,30,37.38095238095238,19.0,40.967439092035484
+http://www.wikidata.org/entity/Q25104247,mic drop,concept,Gestures and habits,body language,Mic drop,2768,34,67.51612903225806,53.0,58.78164677787476
+http://www.wikidata.org/entity/Q65022,Ellen von Unwerth,named entity,Visual Arts,photographer,Ellen von Unwerth,2853,45,48.18604651162791,35.0,46.80352591267352
+http://www.wikidata.org/entity/Q16390125,Les Sœurs Boulay,named entity,Music,musical group,Les Sœurs Boulay,956,7,52.285714285714285,3.0,71.86040890049915
+http://www.wikidata.org/entity/Q5194627,Lilium,concept,Biology,plant,Lilium,18685,171,59.23456790123457,44.0,57.20059388557669
+http://www.wikidata.org/entity/Q3364870,rangeland,concept,Geography,environment,Rangeland,15507,132,81.0923076923077,56.0,75.81895908157153
+http://www.wikidata.org/entity/Q84199,Michael Haneke,named entity,Performing arts,theatrical director,Michael Haneke,14504,165,54.264900662251655,39.0,47.99374986719245
+http://www.wikidata.org/entity/Q244630,Two-Rhythm Dance,named entity,Performing arts,folk dance,Zwiefacher,2084,19,92.88888888888889,62.5,78.35240114656409
+http://www.wikidata.org/entity/Q172336,chokehold,concept,Gestures and habits,gesture,Chokehold,6930,51,50.9,45.0,45.4942853554158
+http://www.wikidata.org/entity/Q184452,cable television,concept,media,television,Cable television,19310,111,44.78181818181818,22.0,68.07153747988974
+http://www.wikidata.org/entity/Q911043,cross-laminated timber,concept,architecture,building material,Cross-laminated timber,17981,42,39.24390243902439,18.0,49.37352924036339
+http://www.wikidata.org/entity/Q2380474,Raleigh Studios,named entity,media,film studio,Raleigh Studios,777,4,48.75,31.0,47.18249145604755
+http://www.wikidata.org/entity/Q365126,Keolis Nederland,named entity,transportation,transport company,Keolis Nederland,2393,19,37.611111111111114,18.0,38.78020527263431
+http://www.wikidata.org/entity/Q7257263,underwear as outerwear,concept,Fashion,fashion trend,Underwear as outerwear,5351,65,52.184615384615384,41.0,48.56459372128639
+http://www.wikidata.org/entity/Q55198,Oleksandr Dovzhenko,named entity,Films,film producer,Alexander Dovzhenko,10272,69,75.5072463768116,47.0,73.60108363813276
+http://www.wikidata.org/entity/Q2618583,French Emigration,concept,History,historical event,French emigration (1789–1815),19421,62,58.03225806451613,40.0,52.63598908079953
+http://www.wikidata.org/entity/Q133485,rabbi,concept,philosophy and religion,religious leader,Rabbi,28990,159,42.96103896103896,26.5,49.56209317048707
+http://www.wikidata.org/entity/Q15799,Club Atlético River Plate,named entity,sports,sports club,Club Atlético River Plate,20266,189,39.36507936507937,19.0,47.356902779496856
+http://www.wikidata.org/entity/Q593887,Council of Government,named entity,politics,government agency,Council of Government,678,9,89.125,26.5,100.45949121412073
+http://www.wikidata.org/entity/Q593216,Constantijn Huygens Prize,named entity,Literature,literary award,Constantijn Huygens Prize,596,5,21.5,24.0,4.924428900898052
+http://www.wikidata.org/entity/Q1323870,El Ateneo Grand Splendid,named entity,Books,bookstore,El Ateneo Grand Splendid,2514,17,54.11764705882353,18.0,81.2040873739024
+http://www.wikidata.org/entity/Q19088,eukaryote,concept,Biology,organism,Eukaryote,18342,228,60.849557522123895,46.5,57.53855517531371
+http://www.wikidata.org/entity/Q252120,Ottoman poetry,concept,Literature,poetry,Ottoman poetry,2418,23,75.54545454545455,50.0,79.14527911765533
+http://www.wikidata.org/entity/Q1307909,ligne claire,concept,Visual Arts,art movement,Ligne claire,3349,45,28.11904761904762,13.5,46.714024803892514
+http://www.wikidata.org/entity/Q392409,freediving,concept,sports,sport,Freediving,21722,125,76.975,42.0,82.62530509272972
+http://www.wikidata.org/entity/Q24075,Godzilla,named entity,Films,film,Godzilla (1998 film),45514,156,42.57823129251701,30.0,44.2039068009097
+http://www.wikidata.org/entity/Q461,Internet Archive,named entity,History,archive,Internet Archive,44033,266,54.26996197718631,35.0,59.524345043438025
+http://www.wikidata.org/entity/Q502899,outlier,concept,Geography,mountain,Inliers and outliers (geology),2828,49,55.57142857142857,26.0,64.72138087878798
+http://www.wikidata.org/entity/Q133442,city-state,concept,Geography,city,City-state,16512,226,99.65178571428571,74.5,79.90470996995516
+http://www.wikidata.org/entity/Q25243,Betula,concept,Biology,tree,Birch,11299,131,79.1328125,55.5,73.5491301671192
+http://www.wikidata.org/entity/Q352664,adat,concept,Gestures and habits,tradition,Adat,8042,63,68.80645161290323,51.0,62.838204608157696
+http://www.wikidata.org/entity/Q152311,naturism,concept,philosophy and religion,philosophical movement,Naturism,40581,132,31.958677685950413,18.0,36.29821312320258
+http://www.wikidata.org/entity/Q42745,Rita Hayworth,named entity,Fashion,model,Rita Hayworth,43529,224,51.153153153153156,32.0,55.07802789429095
+http://www.wikidata.org/entity/Q616358,Prairie School architecture,named entity,architecture,architectural style,Prairie School,17641,79,44.782051282051285,32.5,59.30962810147971
+http://www.wikidata.org/entity/Q390248,myth of origins,concept,Literature,literary genre,Origin myth,9695,62,74.51612903225806,62.5,52.545446362198746
+http://www.wikidata.org/entity/Q1807465,laufhaus,concept,architecture,building,Laufhaus,2241,5,198.2,293.0,128.09590157378182
+http://www.wikidata.org/entity/Q3080858,wagoto,concept,Films,acting style,Wagoto,768,11,55.44444444444444,8.0,78.65693599579706
+http://www.wikidata.org/entity/Q125375,consecration,concept,Gestures and habits,ritual,Consecration in Christianity,11856,61,43.45,26.5,48.07751553481107
+http://www.wikidata.org/entity/Q140676,rediff.com,named entity,media,media company,Rediff.com,1819,15,76.57142857142857,43.0,82.64443139629147
+http://www.wikidata.org/entity/Q1297719,French moralist,named entity,philosophy and religion,philosopher,French moralists,901,12,75.8,65.0,72.30325027272288
+http://www.wikidata.org/entity/Q53121,cycling,concept,transportation,mode of transport,Cycling,39275,181,39.36312849162011,24.0,46.92269862314466
+http://www.wikidata.org/entity/Q507220,DARPA Grand Challenge,named entity,sports,recurring sporting event,DARPA Grand Challenge,17035,57,50.44642857142857,31.5,53.93280198637969
+http://www.wikidata.org/entity/Q840584,Scouting for Boys,named entity,Books,book,Scouting for Boys,6851,28,33.5,14.0,39.16038450124966
+http://www.wikidata.org/entity/Q847906,online magazine,concept,media,magazine,Online magazine,3284,18,56.611111111111114,34.5,58.240057700758285
+http://www.wikidata.org/entity/Q178743,stele,concept,History,monument,Stele,15940,142,93.70503597122303,65.0,85.07757384740879
+http://www.wikidata.org/entity/Q205543,American Football League All-Time Team,named entity,sports,sports team,American Football League All-Time Team,206,1,21.0,21.0,0.0
+http://www.wikidata.org/entity/Q334451,language policy,concept,politics,policy,Language policy,6221,26,62.541666666666664,34.5,75.18143563333231
+http://www.wikidata.org/entity/Q43459,Ferdowsi,named entity,Literature,poet,Ferdowsi,11011,57,61.964285714285715,54.0,63.35105261435629
+http://www.wikidata.org/entity/Q1280834,Bible society,named entity,Literature,publisher,Bible society,5859,50,91.0909090909091,67.5,83.56320911355292
+http://www.wikidata.org/entity/Q59281,transitional government,named entity,politics,government,Provisional government,4341,61,113.26229508196721,73.0,101.17115859985748
+http://www.wikidata.org/entity/Q1192,Jean-Baptiste Lully,named entity,Performing arts,choreographer,Jean-Baptiste Lully,15799,101,43.270833333333336,31.5,43.73010956582306
+http://www.wikidata.org/entity/Q188116,Fourteenth Amendment to the United States Constitution,named entity,politics,law,Fourteenth Amendment to the United States Constitution,41358,281,25.231316725978647,9.0,41.75611125442425
+http://www.wikidata.org/entity/Q6784637,Massie Wireless Station,named entity,architecture,construction,Massie Wireless Station,5763,38,32.16216216216216,20.0,43.14808787440003
+http://www.wikidata.org/entity/Q2519376,jewelry designer,concept,Fashion,designer,Jewelry designer,3143,24,81.1304347826087,62.0,62.6878424853108
+http://www.wikidata.org/entity/Q66626,Hornussen,named entity,Geography,neighborhood,"Hornussen, Aargau",7668,43,48.83720930232558,27.0,57.749632127111056
+http://www.wikidata.org/entity/Q665982,Posca,concept,food,drink,Posca,2215,28,85.42857142857143,70.0,56.2147848952242
+http://www.wikidata.org/entity/Q546264,beat music,concept,Music,music genre,Beat music,7503,92,48.641304347826086,29.0,56.38389022193792
+http://www.wikidata.org/entity/Q495488,forage fish,concept,Biology,fish,Forage fish,28767,226,61.29333333333334,43.0,61.062978054537176
+http://www.wikidata.org/entity/Q544972,trombonist,concept,Music,musical profession,Trombonist,45767,213,48.91866028708134,29.0,57.766383877988595
+http://www.wikidata.org/entity/Q693791,koto,concept,Fashion,traditional costume,Koto (traditional clothing),571,5,69.4,48.0,85.87805307527645
+http://www.wikidata.org/entity/Q254118,Holocaust Museum LA,named entity,History,museum,Holocaust Museum LA,5754,6,11.5,10.0,7.274384280931732
+http://www.wikidata.org/entity/Q19090,Robin Hood,named entity,Comics and Anime,animated film,Robin Hood (1973 film),18716,117,44.833333333333336,28.0,43.37937837079108
+http://www.wikidata.org/entity/Q1584013,Yakshagana,named entity,Performing arts,theatrical genre,Yakshagana,21554,98,49.23711340206186,32.0,52.055040893166165
+http://www.wikidata.org/entity/Q3275087,Hanaya Yohei,named entity,food,cook,Hanaya Yohei,1688,19,69.72222222222223,55.5,58.87067328338878
+http://www.wikidata.org/entity/Q53046,Carlo Verdone,named entity,Films,film director,Carlo Verdone,2423,28,42.07692307692308,10.0,64.58680686720605
+http://www.wikidata.org/entity/Q767703,breakdancer,concept,sports,athlete,Breakdancer,25507,141,58.407407407407405,28.0,67.67780929563428
+http://www.wikidata.org/entity/Q93189,egg as food,concept,food,ingredient,Eggs as food,35203,248,79.58847736625515,55.0,77.17738767048567
+http://www.wikidata.org/entity/Q259553,Urania,named entity,architecture,architectural structure,"Urania, Vienna",1551,19,89.05555555555556,62.5,87.52299521473213
+http://www.wikidata.org/entity/Q5276133,digital philosophy,named entity,philosophy and religion,philosophy,Digital philosophy,807,6,89.2,39.0,86.41851653436316
+http://www.wikidata.org/entity/Q239897,Joann Sfar,named entity,Comics and Anime,comics artist,Joann Sfar,2407,37,74.94285714285714,37.0,90.38360877224298
+http://www.wikidata.org/entity/Q181283,adult comics,concept,Comics and Anime,comics,Adult comics,18838,223,18.190045248868778,9.0,24.03165503849777
+http://www.wikidata.org/entity/Q219423,mural,concept,Visual Arts,painting,Mural,18705,140,77.91111111111111,52.0,80.48017622639813
+http://www.wikidata.org/entity/Q864380,biographer,concept,Books,non-fiction writer,Biographer,539,3,103.33333333333333,93.0,23.612614331233118
+http://www.wikidata.org/entity/Q2283231,Light-Life,named entity,philosophy and religion,religious movement,Light-Life Movement,1866,9,85.0,29.0,101.28795584865952
+http://www.wikidata.org/entity/Q183945,record producer,concept,Music,musician,Record producer,17115,109,44.99074074074074,29.5,44.067392700854256
+http://www.wikidata.org/entity/Q60233168,political historian,concept,History,historian,Political historian,7063,15,41.53333333333333,30.0,39.54215753119981
+http://www.wikidata.org/entity/Q197069,Zexcs,named entity,Comics and Anime,animation studio,Zexcs,397,8,52.25,23.5,69.25992708630294
+http://www.wikidata.org/entity/Q670265,Eisteddfod,concept,Music,music festival,Eisteddfod,108278,839,42.80173482032218,21.0,55.32262341193474
+http://www.wikidata.org/entity/Q15964235,Emmenbrücke Kapf railway station,named entity,transportation,station,Emmenbrücke Kapf railway station,478,8,107.875,64.0,104.72158027359977
+http://www.wikidata.org/entity/Q63036,Eduard Oscar Schmidt,named entity,Biology,biologist,Eduard Oscar Schmidt,1636,24,85.9090909090909,55.0,75.47360109872801
+http://www.wikidata.org/entity/Q225907,professional revolutionary,concept,politics,politician,Professional revolutionaries,37946,237,56.15744680851064,38.0,50.354791209343055
+http://www.wikidata.org/entity/Q794428,entrenched river,concept,Geography,river,Entrenched river,7412,28,55.92857142857143,55.0,43.56516348400124
+http://www.wikidata.org/entity/Q874265,Stump sock,concept,Fashion,clothing,Stump sock,742,6,131.0,135.0,48.50429534244021
+http://www.wikidata.org/entity/Q183308,New Age,named entity,philosophy and religion,religion,New Age,85839,412,50.775061124694375,33.0,54.73624925005804
+http://www.wikidata.org/entity/Q11046554,tapu,concept,Gestures and habits,mores,Tapu (Polynesian culture),3583,34,76.1875,42.0,77.34599112914644
+http://www.wikidata.org/entity/Q4835874,BLUF,named entity,Literature,writing style,BLUF (communication),26698,16,39.214285714285715,24.0,38.35953703621373
+http://www.wikidata.org/entity/Q3565221,Wakanim,concept,media,streaming service,Wakanim,5148,29,71.0,41.5,73.614827698928
+http://www.wikidata.org/entity/Q25326,Mollusca,concept,Biology,animal,Mollusca,37273,274,65.8501872659176,56.0,54.70677735645718
+http://www.wikidata.org/entity/Q766570,Political parties in Russia,concept,politics,political party,List of political parties in Russia,6002,44,69.5,55.0,65.34510948290877
+http://www.wikidata.org/entity/Q3015646,Australian dance,concept,Performing arts,dance,Dance in Australia,7510,51,31.122448979591837,12.0,45.49933063112083
+http://www.wikidata.org/entity/Q49112,Yale University,named entity,media,production company,Yale University,74783,646,32.68062015503876,16.0,41.310700375409766
+http://www.wikidata.org/entity/Q895818,boy player,named entity,Performing arts,actor,Boy player,11043,85,25.654761904761905,8.5,45.68955649338652
+http://www.wikidata.org/entity/Q6415061,jajim,concept,Fashion,textile,Jajim,1349,14,157.21428571428572,187.0,125.23245732375828
+http://www.wikidata.org/entity/Q1352102,Free Cinema,named entity,Films,film genre,Free Cinema,4818,45,24.288888888888888,19.0,21.674995550144075
+http://www.wikidata.org/entity/Q579021,perfumer,concept,Visual Arts,artist,Perfumer,4514,24,60.875,29.5,70.73796275692423
+http://www.wikidata.org/entity/Q473743,environmental art,concept,Visual Arts,visual arts,Environmental art,19462,75,28.0,11.0,40.67748190641323
+http://www.wikidata.org/entity/Q824592,Berner Platte,named entity,food,dish,Berner Platte,1008,18,113.75,78.5,83.91550810189973
+http://www.wikidata.org/entity/Q264980,Equal Vision Records,named entity,Music,record label,Equal Vision Records,1876,26,21.96153846153846,6.5,33.73822389337189
+http://www.wikidata.org/entity/Q596428,Kia ora,concept,Gestures and habits,greeting,Kia ora,2492,24,28.833333333333332,16.5,29.91887178502707
+http://www.wikidata.org/entity/Q49845,mail,concept,transportation,transport,Mail,37189,212,66.90776699029126,45.5,66.7801510963442
+http://www.wikidata.org/entity/Q10957,Lumière Festival,entity,Films,film festival,Lumière Festival,769,7,124.66666666666667,61.5,121.01606872183912
+http://www.wikidata.org/entity/Q59182,Wikov,named entity,transportation,automobile manufacturer,Wikov,2949,3,86.0,17.0,106.17909398747005
+http://www.wikidata.org/entity/Q3621561,starchitect,named entity,architecture,architect,Starchitect,12114,112,78.0909090909091,62.0,65.28045029013391
+http://www.wikidata.org/entity/Q5503619,fried eggplant,concept,food,food,Fried eggplant,1417,24,78.17391304347827,48.0,62.540875102616965
+http://www.wikidata.org/entity/Q5300093,double steaming,concept,food,cooking technique,Double steaming,2306,21,58.55555555555556,55.0,43.06741772077591
+http://www.wikidata.org/entity/Q478804,children's anime and manga,concept,Comics and Anime,manga,Children's anime and manga,2093,20,66.65,43.5,63.08745913412586
+http://www.wikidata.org/entity/Q119906,parallax scrolling,concept,Comics and Anime,animation technique,Parallax scrolling,7999,64,29.887096774193548,18.5,26.807620990759013
+http://www.wikidata.org/entity/Q1466283,Sizewell nuclear power stations,named entity,Geography,geographic location,Sizewell nuclear power stations,18261,65,30.07936507936508,11.0,45.06971727745684
+http://www.wikidata.org/entity/Q44475,spear,concept,sports,sports equipment,Spear,26385,209,62.39320388349515,50.5,56.240086526014316
+http://www.wikidata.org/entity/Q42,Douglas Adams,named entity,Literature,writer,Douglas Adams,28404,208,35.95609756097561,22.0,44.98588422931043
+http://www.wikidata.org/entity/Q150066,Pinacoteca di Brera,named entity,Visual Arts,art gallery,Pinacoteca di Brera,4388,41,53.1219512195122,47.0,43.409111734272976
+http://www.wikidata.org/entity/Q30314702,body language of dogs,concept,Gestures and habits,body language,Body language of dogs,14108,24,52.916666666666664,49.0,46.361726911561675
+http://www.wikidata.org/entity/Q64718,Victor Hasselblad,named entity,Visual Arts,photographer,Victor Hasselblad,1271,13,42.63636363636363,32.0,38.2510195402393
+http://www.wikidata.org/entity/Q1469093,Rodrigo y Gabriela,named entity,Music,musical group,Rodrigo y Gabriela,10677,107,53.49514563106796,23.0,69.16995725127954
+http://www.wikidata.org/entity/Q4671452,terrestrial plant,concept,Biology,plant,Terrestrial plant,1321,15,55.07692307692308,44.0,55.224662186467626
+http://www.wikidata.org/entity/Q4986688,built environment,concept,Geography,environment,Built environment,15606,46,84.1304347826087,66.5,67.17647385016126
+http://www.wikidata.org/entity/Q78639,Max Reinhardt,named entity,Performing arts,theatrical director,Max Reinhardt,14553,158,47.53333333333333,24.0,60.64032395105495
+http://www.wikidata.org/entity/Q329385,schottische,concept,Performing arts,folk dance,Schottische,10507,45,47.16216216216216,20.0,63.47100360028789
+http://www.wikidata.org/entity/Q267050,Mano,named entity,Gestures and habits,gesture,Mano (gesture),7403,24,72.63636363636364,40.0,88.14943172845521
+http://www.wikidata.org/entity/Q242256,closed-circuit television,concept,media,television,Closed-circuit television,37146,186,59.215053763440864,34.0,71.22429352712436
+http://www.wikidata.org/entity/Q647584,flashing,concept,architecture,building material,Flashing (weatherproofing),6095,24,58.61904761904762,31.0,67.29075234736139
+http://www.wikidata.org/entity/Q2088225,Laugh-O-Gram Studio,named entity,media,film studio,Laugh-O-Gram Studio,7056,32,38.90625,14.5,47.39287879985241
+http://www.wikidata.org/entity/Q366922,TEC,named entity,transportation,transport company,Opérateur de transport de Wallonie,1011,8,74.0,16.0,95.66907247680113
+http://www.wikidata.org/entity/Q28966228,lightning rod fashion,concept,Fashion,fashion trend,Lightning rod fashion,2660,6,52.833333333333336,49.0,45.374062585970364
+http://www.wikidata.org/entity/Q55207,Nikita Mikhalkov,named entity,Films,film producer,Nikita Mikhalkov,11606,124,58.91056910569106,35.0,66.95891327639505
+http://www.wikidata.org/entity/Q2635310,Mrkonjić Grad incident,named entity,History,historical event,Mrkonjić Grad incident,14010,107,56.345794392523366,33.0,64.76616498738117
+http://www.wikidata.org/entity/Q172748,antipope,concept,philosophy and religion,religious leader,Antipope,6117,69,67.29411764705883,55.0,54.597473229490966
+http://www.wikidata.org/entity/Q16320,Club Atlético Peñarol,named entity,sports,sports club,Peñarol,34004,225,38.12558139534884,18.0,51.22733687462809
+http://www.wikidata.org/entity/Q597935,Communications Security Establishment Canada,concept,politics,government agency,Communications Security Establishment,22971,146,47.73426573426573,17.0,72.21228912024137
+http://www.wikidata.org/entity/Q294238,BookSpot Literatuurprijs,named entity,Literature,literary award,Bookspot Literatuurprijs,2502,4,198.0,247.0,114.99347807593264
+http://www.wikidata.org/entity/Q1409680,H. N. Jacobsens Bókahandil,named entity,Books,bookstore,H. N. Jacobsens Bókahandil,1175,12,79.0909090909091,96.0,49.62853751156879
+http://www.wikidata.org/entity/Q25367,plankton,concept,Biology,organism,Plankton,23024,182,73.34615384615384,58.5,60.551458104769814
+http://www.wikidata.org/entity/Q288909,Urdu poetry,concept,Literature,poetry,Urdu poetry,2684,32,89.3125,47.0,92.56330181961964
+http://www.wikidata.org/entity/Q516316,Young British Artists,named entity,Visual Arts,art movement,Young British Artists,16478,129,19.5625,8.0,28.832422613266477
+http://www.wikidata.org/entity/Q244158,skipping rope,concept,sports,sport,Skipping rope,11372,31,75.88,51.0,80.10259421516884
+http://www.wikidata.org/entity/Q24151,Alligator II – The Mutation,entity,Films,film,Alligator II: The Mutation,3764,11,26.545454545454547,23.0,16.718871407993568
+http://www.wikidata.org/entity/Q565,Wikimedia Commons,named entity,History,archive,Wikimedia Commons,5160,52,87.02272727272727,78.5,66.76263538440551
+http://www.wikidata.org/entity/Q442987,Hewitt,named entity,Geography,mountain,Hewitt (hill),2365,8,40.75,30.5,41.13316788189307
+http://www.wikidata.org/entity/Q83020,provincial city,named entity,Geography,city,Provincial city (Taiwan),2740,18,91.16666666666667,38.0,96.3634612634201
+http://www.wikidata.org/entity/Q2453469,Juglans,concept,Biology,tree,Juglans,15187,105,67.07920792079207,52.0,50.76965710481929
+http://www.wikidata.org/entity/Q189819,ritual,named entity,Gestures and habits,tradition,Ritual,38084,184,63.55555555555556,41.0,65.6642319533602
+http://www.wikidata.org/entity/Q164828,Samkhya,named entity,philosophy and religion,philosophical movement,Samkhya,42265,125,45.68032786885246,27.0,45.04155938712213
+http://www.wikidata.org/entity/Q76452,Uschi Obermaier,named entity,Fashion,model,Uschi Obermaier,4070,43,47.09375,27.5,57.366344322586045
+http://www.wikidata.org/entity/Q681188,paifang,concept,architecture,architectural style,Paifang,4108,30,80.41379310344827,46.0,83.4693903182186
+http://www.wikidata.org/entity/Q393148,aggadah,concept,Literature,literary genre,Aggadah,8488,44,50.833333333333336,39.5,48.44089017833839
+http://www.wikidata.org/entity/Q1711275,Jugendburg,concept,architecture,building,Jugendburg,3700,27,39.16,11.0,55.26132825041396
+http://www.wikidata.org/entity/Q519926,Yubitsume,concept,Gestures and habits,ritual,Yubitsume,2333,11,49.1,60.0,21.612265036316764
+http://www.wikidata.org/entity/Q163560,Axel Springer SE,named entity,media,media company,Axel Springer SE,14484,59,33.08771929824562,18.0,41.1655965633007
+http://www.wikidata.org/entity/Q5403434,ethicist,concept,philosophy and religion,philosopher,Ethicist,59603,378,57.05291005291005,38.0,53.04762115853275
+http://www.wikidata.org/entity/Q167681,Vahana,concept,transportation,mode of transport,Vahana,8432,55,73.92307692307692,48.0,70.57261567237137
+http://www.wikidata.org/entity/Q508557,Panhellenic Games,named entity,sports,recurring sporting event,Panhellenic Games,14274,73,59.16438356164384,48.0,38.811103374781155
+http://www.wikidata.org/entity/Q85750582,Captain Cook,named entity,Books,book,Captain Cook (book),529,3,97.0,97.0,65.0
+http://www.wikidata.org/entity/Q416,disk magazine,concept,media,magazine,Disk magazine,6943,50,64.58,47.5,65.16842486971738
+http://www.wikidata.org/entity/Q193475,menhir,concept,History,monument,Menhir,5315,39,66.44444444444444,58.0,49.27273555563769
+http://www.wikidata.org/entity/Q191378,Z-Boys,named entity,sports,sports team,Z-Boys,5156,26,24.153846153846153,5.5,33.788587408372884
+http://www.wikidata.org/entity/Q751734,smoking ban,concept,politics,policy,Smoking ban,41720,188,90.49732620320856,68.0,84.22806919257756
+http://www.wikidata.org/entity/Q392,Bob Dylan,named entity,Literature,poet,Bob Dylan,99512,755,37.30027173913044,23.0,39.23948626746856
+http://www.wikidata.org/entity/Q1917775,music publishing company,concept,Literature,publisher,Music publisher,5635,49,54.265306122448976,41.0,50.02806376107114
+http://www.wikidata.org/entity/Q720829,open government,concept,politics,government,Open government,21975,59,76.1896551724138,42.5,88.34073081297635
+http://www.wikidata.org/entity/Q291331,Darcey Bussell,named entity,Performing arts,choreographer,Darcey Bussell,11619,98,39.947916666666664,24.0,48.839526724362536
+http://www.wikidata.org/entity/Q256658,stand-your-ground law,concept,politics,law,Stand-your-ground law,23133,48,34.395833333333336,14.5,45.36139124819941
+http://www.wikidata.org/entity/Q811095,construction of the World Trade Center,named entity,architecture,construction,Construction of the World Trade Center,47767,197,40.91794871794872,28.0,45.577811019515885
+http://www.wikidata.org/entity/Q2707485,scenographer,concept,Fashion,designer,Scenographer,1437,16,27.0,13.0,39.70558315065192
+http://www.wikidata.org/entity/Q67052,Barberêche,named entity,Geography,neighborhood,Barberêche,14136,108,77.11764705882354,53.0,71.21897936585898
+http://www.wikidata.org/entity/Q343276,Actimel,named entity,food,drink,Actimel,4154,24,83.58333333333333,53.0,92.84122497875367
+http://www.wikidata.org/entity/Q546359,doo-wop,concept,Music,music genre,Doo-wop,57005,387,20.43782383419689,8.0,30.547042112008157
+http://www.wikidata.org/entity/Q1072742,freshwater fish,concept,Biology,fish,Freshwater fish,11352,59,66.85964912280701,49.0,61.89788948489199
+http://www.wikidata.org/entity/Q584301,bassist,concept,Music,musical profession,Bassist,3632,56,52.910714285714285,35.5,49.70494254875978
+http://www.wikidata.org/entity/Q1130359,loincloth,concept,Fashion,traditional costume,Loincloth,7564,62,67.50819672131148,50.0,71.07895009022371
+http://www.wikidata.org/entity/Q252800,Abbot's Palace (Oliwa),entity,History,museum,Abbot's Palace (Oliwa),2700,36,52.2962962962963,26.0,58.755497655973414
+http://www.wikidata.org/entity/Q4447,Despicable Me,named entity,Comics and Anime,animated film,Despicable Me (film),16053,125,40.81967213114754,37.0,31.18007360569305
+http://www.wikidata.org/entity/Q1615950,Weihnachtsmärchen,named entity,Performing arts,theatrical genre,Weihnachtsmärchen,670,14,83.78571428571429,60.0,65.48192615570517
+http://www.wikidata.org/entity/Q3292396,Marie Bourgeois,named entity,food,cook,Marie Bourgeois,782,9,53.44444444444444,48.0,47.298369976872735
+http://www.wikidata.org/entity/Q53045,Giuseppe Tornatore,named entity,Films,film director,Giuseppe Tornatore,2000,24,58.583333333333336,45.5,50.128099793318405
+http://www.wikidata.org/entity/Q969772,Free agent,concept,sports,athlete,Free agent,10246,40,41.0,23.5,54.110535018607976
+http://www.wikidata.org/entity/Q1728977,karashi,concept,food,ingredient,Karashi,1062,18,54.8235294117647,50.0,35.73634711593102
+http://www.wikidata.org/entity/Q286522,Oskar Schindler's Enamel Factory,named entity,architecture,architectural structure,Oskar Schindler's Enamel Factory,6891,27,82.24,50.0,72.31446881503037
+http://www.wikidata.org/entity/Q7362654,Romanian philosophy,concept,philosophy and religion,philosophy,Romanian philosophy,71584,248,52.5024154589372,37.0,51.81534236411534
+http://www.wikidata.org/entity/Q224904,Ed Arno,named entity,Comics and Anime,comics artist,Ed Arno,550,9,81.33333333333333,51.0,83.47854015653763
+http://www.wikidata.org/entity/Q562214,manhwa,concept,Comics and Anime,comics,Manhwa,9792,41,59.743589743589745,33.0,60.0280780236741
+http://www.wikidata.org/entity/Q646420,Fayum mummy portraits,concept,Visual Arts,painting,Fayum mummy portraits,29348,127,59.80487804878049,53.0,44.01323868402179
+http://www.wikidata.org/entity/Q1172458,muhaddith,concept,Books,non-fiction writer,Muhaddith,2054,18,89.05882352941177,80.0,67.56736994266433
+http://www.wikidata.org/entity/Q2210815,Orthodox Reformed Chorch,concept,philosophy and religion,religious movement,Reformed orthodoxy,12625,119,48.53781512605042,29.0,48.60573502766178
+http://www.wikidata.org/entity/Q177718,sideman,concept,Music,musician,Sideman,2582,36,63.30555555555556,51.5,50.94867757767203
+http://www.wikidata.org/entity/Q2004963,numismatist,concept,History,historian,Numismatist,3258,11,22.181818181818183,10.0,25.070149514795776
+http://www.wikidata.org/entity/Q2940649,Cartoon Saloon,named entity,Comics and Anime,animation studio,Cartoon Saloon,2872,30,44.1,25.5,42.758507925324054
+http://www.wikidata.org/entity/Q358576,Technoparade,concept,Music,music festival,Technoparade,4452,17,82.14285714285714,79.5,63.344700018298006
+http://www.wikidata.org/entity/Q31444630,Ballwil railway station,named entity,transportation,station,Ballwil railway station,266,7,116.85714285714286,84.0,108.99597446226898
+http://www.wikidata.org/entity/Q62982,Jacques Loeb,named entity,Biology,biologist,Jacques Loeb,3449,30,73.46428571428571,61.5,57.88565214705451
+http://www.wikidata.org/entity/Q327591,independent politician,concept,politics,politician,Independent politician,62559,639,37.99527559055118,18.0,50.502997273285345
+http://www.wikidata.org/entity/Q100649,blackwater river,named entity,Geography,river,Blackwater river,3315,48,88.68888888888888,70.0,73.78461815678936
+http://www.wikidata.org/entity/Q701069,Hanbok,entity,Fashion,clothing,Hanbok,56646,195,45.861702127659576,30.0,48.6047018704083
+http://www.wikidata.org/entity/Q188213,state religion,concept,philosophy and religion,religion,State religion,8708,100,85.21212121212122,62.0,80.69336807356609
+http://www.wikidata.org/entity/Q15975772,headlinese,entity,Literature,writing style,Headlinese,4895,27,36.22222222222222,24.0,38.819938875801796
+http://www.wikidata.org/entity/Q7735102,Fox Nation,entity,media,streaming service,Fox Nation,4413,49,32.416666666666664,20.0,36.99709072646419
+http://www.wikidata.org/entity/Q25334,European Robin,concept,Biology,animal,European robin,17151,86,67.45121951219512,59.5,51.60335412596138
+http://www.wikidata.org/entity/Q938993,frivolous political party,concept,politics,political party,Frivolous political party,608,5,61.2,41.0,52.87116416346438
+http://www.wikidata.org/entity/Q2879962,baião,concept,Performing arts,dance,Baião (music),3449,69,40.064516129032256,24.0,44.80310723950132
+http://www.wikidata.org/entity/Q127990,Australian National University,entity,media,production company,Australian National University,29852,303,35.754152823920265,12.0,51.77737314500652
+http://www.wikidata.org/entity/Q948329,character actor,concept,Performing arts,actor,Character actor,3918,31,35.63333333333333,33.0,24.675876658973817
+http://www.wikidata.org/entity/Q4878968,bed skirt,entity,Fashion,textile,Bed skirt,3981,40,53.75,37.0,49.423552077931426
+http://www.wikidata.org/entity/Q1361932,family film,entity,Films,film genre,Family film,16303,220,50.351851851851855,37.5,47.00725216208563
+http://www.wikidata.org/entity/Q639669,musician,concept,Visual Arts,artist,Musician,2512,31,69.53333333333333,54.0,48.317514652786336
+http://www.wikidata.org/entity/Q616077,VJing,concept,Visual Arts,visual arts,VJing,30025,127,26.510416666666668,14.0,28.96117904183211
+http://www.wikidata.org/entity/Q827654,lassi,entity,food,dish,Lassi,1753,29,94.39285714285714,97.5,45.02962460244072

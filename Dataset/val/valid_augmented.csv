@@ -1,0 +1,301 @@
+item,name,type,category,subcategory,label,title,page_length,num_links,mean_sitelinks_count,median_sitelinks_count,std_sitelinks_count
+http://www.wikidata.org/entity/Q15786,1. FC Nürnberg,entity,sports,sports club,cultural representative,1. FC Nürnberg,14951,92,48.6,33.0,53.699643990494785
+http://www.wikidata.org/entity/Q268530,77 Records,entity,music,record label,cultural exclusive,77 Records,1254,33,26.875,12.0,38.68442031360946
+http://www.wikidata.org/entity/Q216153,A Bug's Life,entity,comics and anime,animated film,cultural representative,A Bug's Life,32226,159,46.348387096774196,38.0,40.98301671044807
+http://www.wikidata.org/entity/Q593,A Gang Story,entity,films,film,cultural exclusive,A Gang Story,324,6,96.8,21.0,111.34882127800006
+http://www.wikidata.org/entity/Q192185,Aaron Copland,entity,performing arts,choreographer,cultural representative,Aaron Copland,53274,227,34.306666666666665,25.0,36.9338050511392
+http://www.wikidata.org/entity/Q265890,Aarwangen Castle,entity,architecture,architectural structure,cultural exclusive,Aarwangen Castle,192,6,133.33333333333334,101.5,112.35311398542642
+http://www.wikidata.org/entity/Q305718,abaya,concept,fashion,traditional costume,cultural representative,Abaya,7592,41,56.775,33.5,59.194377900270226
+http://www.wikidata.org/entity/Q337267,Academy of San Carlos,entity,visual arts,art gallery,cultural exclusive,Academy of San Carlos,10090,78,42.865671641791046,11.0,62.69706735087092
+http://www.wikidata.org/entity/Q15,Africa,entity,geography,geographic location,cultural representative,Africa,75412,840,62.01918465227818,36.0,74.5292314905864
+http://www.wikidata.org/entity/Q388170,African American literature,entity,literature,literary genre,cultural representative,African-American literature,59736,307,37.86,11.0,57.257724951893316
+http://www.wikidata.org/entity/Q11453,agricultural irrigation,concept,transportation,transport,cultural agnostic,Irrigation,47915,261,68.40234375,40.0,81.79627796090013
+http://www.wikidata.org/entity/Q11436,aircraft,concept,transportation,mode of transport,cultural agnostic,Aircraft,22014,224,42.33183856502242,27.0,52.01204775690259
+http://www.wikidata.org/entity/Q583479,Alcantara,concept,fashion,textile,cultural agnostic,Alcantara (material),3298,34,34.23529411764706,27.5,34.70129580859838
+http://www.wikidata.org/entity/Q91717,alcazaba,concept,history,monument,cultural representative,Alcazaba,5458,67,82.65625,52.0,90.01652951507018
+http://www.wikidata.org/entity/Q1453,Alexandra Stan,entity,fashion,model,cultural representative,Alexandra Stan,13776,102,35.625,13.0,46.20656744446616
+http://www.wikidata.org/entity/Q9570,Amitabh Bachchan,entity,books,writer,cultural representative,Amitabh Bachchan,46472,422,32.04086538461539,15.0,44.401476534929316
+http://www.wikidata.org/entity/Q46392,Amjad Khan,entity,films,film director,cultural representative,Amjad Khan (actor),5285,86,39.09411764705882,8.0,61.91733075440886
+http://www.wikidata.org/entity/Q487265,Anasyrma,concept,gestures and habits,body language,cultural representative,Anasyrma,4755,47,61.08695652173913,45.5,68.90031428178354
+http://www.wikidata.org/entity/Q25314,Angiosperms,concept,biology,plant,cultural agnostic,Flowering plant,18983,278,56.32363636363636,47.0,52.52947904362884
+http://www.wikidata.org/entity/Q1107,anime,concept,films,film genre,cultural representative,Anime,47895,370,46.24929178470255,26.0,64.44880838126272
+http://www.wikidata.org/entity/Q27585,AOL,entity,media,media company,cultural exclusive,AOL,46130,232,30.152173913043477,11.0,46.87660369027359
+http://www.wikidata.org/entity/Q192150,apéritif,concept,food,drink,cultural representative,Apéritif,3578,47,77.31818181818181,48.5,74.99780988537802
+http://www.wikidata.org/entity/Q618238,Aperol,entity,food,drink,cultural representative,Aperol,1360,18,79.07142857142857,47.5,88.90320923479027
+http://www.wikidata.org/entity/Q207241,applied arts,concept,visual arts,visual arts,cultural agnostic,Applied arts,739,7,62.0,72.0,36.35145899999849
+http://www.wikidata.org/entity/Q17045537,aragoto,concept,films,acting style,cultural exclusive,Aragoto,906,10,21.8,9.5,22.573435715459887
+http://www.wikidata.org/entity/Q42973,architect,concept,fashion,designer,cultural agnostic,Architect,17697,60,25.15,14.5,32.062867931612104
+http://www.wikidata.org/entity/Q3151019,architectural engineer,concept,architecture,architect,cultural agnostic,Architectural engineer (PE),1791,9,55.666666666666664,0.0,108.20556568145857
+http://www.wikidata.org/entity/Q45418,argan oil,concept,food,ingredient,cultural agnostic,Argan oil,7558,45,58.883720930232556,35.0,67.2925612884465
+http://www.wikidata.org/entity/Q1792450,art historian,concept,history,historian,cultural agnostic,Art historian,30449,208,56.91,38.0,59.50304109875393
+http://www.wikidata.org/entity/Q11629,art of painting,concept,visual arts,visual arts,cultural agnostic,Painting,42511,379,66.55851063829788,46.0,71.08188851161417
+http://www.wikidata.org/entity/Q7066,atheism,concept,philosophy and religion,philosophical movement,cultural agnostic,Atheism,45400,302,63.20338983050848,36.0,74.31959835987716
+http://www.wikidata.org/entity/Q552300,"Baa, Baa, Black Sheep",entity,books,book,cultural exclusive,"Baa, Baa, Black Sheep",4575,25,31.08,17.0,35.18058555510411
+http://www.wikidata.org/entity/Q31444638,Baldegg railway station,entity,transportation,station,cultural exclusive,Baldegg railway station,267,7,105.14285714285714,41.0,116.1408363907847
+http://www.wikidata.org/entity/Q890297,Baltic song festivals,concept,music,music festival,cultural representative,Baltic song festivals,1280,18,133.05882352941177,103.0,114.28368757471357
+http://www.wikidata.org/entity/Q6658,Bamboula,concept,performing arts,dance,cultural representative,Bamboula,1429,18,83.17647058823529,63.0,69.44336269822603
+http://www.wikidata.org/entity/Q807725,Barbarastollen underground archive,concept,history,archive,cultural exclusive,Barbarastollen underground archive,1220,12,95.75,70.0,84.51935182745626
+http://www.wikidata.org/entity/Q353936,Baselland Transport,entity,transportation,transport company,cultural exclusive,Baselland Transport,1525,17,70.6875,23.0,98.0954374257539
+http://www.wikidata.org/entity/Q66705,Bassecourt,entity,geography,neighborhood,cultural exclusive,Bassecourt,8077,49,73.39583333333333,34.0,87.70873663802762
+http://www.wikidata.org/entity/Q811389,Bauhaus Archive,entity,history,archive,cultural representative,Bauhaus Archive,2918,23,69.22727272727273,41.0,72.7991831985783
+http://www.wikidata.org/entity/Q812609,Bayrisch Kraut,entity,food,dish,cultural representative,Bayrisch Kraut,292,6,70.5,52.5,47.66462699598799
+http://www.wikidata.org/entity/Q815611,Biblioteca Ambrosiana,entity,history,archive,cultural exclusive,Biblioteca Ambrosiana,12920,122,75.15702479338843,48.0,78.03093350001448
+http://www.wikidata.org/entity/Q11442,bicycle,entity,transportation,mode of transport,cultural agnostic,Bicycle,43804,264,31.209923664122137,14.0,49.20518863436854
+http://www.wikidata.org/entity/Q5173,Bilateria,concept,biology,animal,cultural agnostic,Bilateria,8316,97,39.527472527472526,23.0,45.50409730599939
+http://www.wikidata.org/entity/Q489,Bill Maher,entity,films,film producer,cultural representative,Bill Maher,43692,339,36.65373134328358,18.0,49.120194735497506
+http://www.wikidata.org/entity/Q49759,bloc party,concept,politics,political party,cultural agnostic,Bloc party,15027,126,52.95238095238095,30.0,65.1548652257453
+http://www.wikidata.org/entity/Q3641631,boho-chic,concept,fashion,fashion trend,cultural representative,Boho-chic,32422,255,39.62151394422311,29.0,48.46886887784379
+http://www.wikidata.org/entity/Q157906,Boomerang,entity,media,streaming service,cultural exclusive,Boomerang (TV network),4402,34,25.352941176470587,18.5,26.499591953507927
+http://www.wikidata.org/entity/Q549322,bullfighter,concept,sports,athlete,cultural representative,Bullfighter,6751,32,44.62068965517241,23.0,55.28634787715084
+http://www.wikidata.org/entity/Q1132695,calico,concept,fashion,textile,cultural representative,Calico,5802,57,56.03921568627451,22.0,76.5306450946321
+http://www.wikidata.org/entity/Q65997,Caliph,concept,philosophy and religion,religious leader,cultural representative,Caliph,65556,481,52.03404255319149,33.0,63.28324465346676
+http://www.wikidata.org/entity/Q5119,capital city,concept,geography,city,cultural agnostic,Capital city,11173,179,124.74157303370787,114.0,96.28720242241205
+http://www.wikidata.org/entity/Q584540,captain,concept,sports,athlete,cultural agnostic,Captain (sports),3206,7,83.14285714285714,49.0,88.57672795206356
+http://www.wikidata.org/entity/Q180449,carbatina,concept,fashion,traditional costume,cultural representative,Carbatina,3011,41,65.325,27.0,75.88655595690187
+http://www.wikidata.org/entity/Q410,Carl Sagan,entity,books,writer,cultural representative,Carl Sagan,57608,349,55.45697329376855,35.0,60.59168264926562
+http://www.wikidata.org/entity/Q18240,carnivorous plant,concept,biology,plant,cultural agnostic,Carnivorous plant,54364,320,51.74294670846395,31.0,61.633381665437895
+http://www.wikidata.org/entity/Q568286,cento,concept,literature,poetry,cultural exclusive,Cento (poetry),2562,30,74.53571428571429,38.5,76.35559767245861
+http://www.wikidata.org/entity/Q154996,Charlottenburg Palace,entity,history,museum,cultural representative,Schloss Charlottenburg,8399,58,47.49122807017544,43.0,50.534727613623005
+http://www.wikidata.org/entity/Q251672,Château Borély,entity,history,museum,cultural exclusive,Château Borély,962,6,42.75,5.0,66.55965369501257
+http://www.wikidata.org/entity/Q45982,Chittagong Kings,entity,sports,sports team,cultural exclusive,Chittagong Kings,6669,58,21.086206896551722,9.0,47.90194167929781
+http://www.wikidata.org/entity/Q1604035,Choc Stars,entity,music,musical group,cultural exclusive,Choc Stars,1196,27,58.375,3.5,95.96215074184197
+http://www.wikidata.org/entity/Q222344,cinematographer,concept,visual arts,artist,cultural agnostic,Cinematographer,3995,43,40.906976744186046,31.0,38.55398748929922
+http://www.wikidata.org/entity/Q118865,clarinetist,concept,music,musical profession,cultural agnostic,Clarinetist,27644,196,32.44387755102041,14.0,42.56461970076463
+http://www.wikidata.org/entity/Q265418,Classic Produktion Osnabrück,entity,music,record label,cultural exclusive,Classic Produktion Osnabrück,868,3,9.0,9.0,9.0
+http://www.wikidata.org/entity/Q11955,Club Deportivo Guadalajara,entity,sports,sports club,cultural exclusive,CD Guadalajara (Spain),1750,23,28.17391304347826,14.0,28.821266565285107
+http://www.wikidata.org/entity/Q280015,Colorado Gold Kings,entity,sports,sports team,cultural exclusive,Colorado Gold Kings,2793,24,62.95454545454545,7.5,93.56013004418227
+http://www.wikidata.org/entity/Q245068,comedian,concept,visual arts,artist,cultural agnostic,Comedian,10857,177,46.40909090909091,29.0,58.15294027656656
+http://www.wikidata.org/entity/Q27773,common sole,concept,food,food,cultural agnostic,Common sole,3139,20,90.4,51.5,97.18045070897747
+http://www.wikidata.org/entity/Q233591,communist party,concept,politics,political party,cultural agnostic,Communist party,9501,80,46.936708860759495,25.0,53.944026727230415
+http://www.wikidata.org/entity/Q379282,community journalism,concept,media,magazine,cultural agnostic,Community journalism,13478,20,37.94736842105263,7.0,64.5424981854759
+http://www.wikidata.org/entity/Q36834,composer,concept,music,musician,cultural agnostic,Composer,15151,78,45.671052631578945,36.0,48.852459981667124
+http://www.wikidata.org/entity/Q158852,conductor,concept,music,musician,cultural agnostic,Conductor (music),34635,144,40.74285714285714,32.5,38.85786764029931
+http://www.wikidata.org/entity/Q376596,courtship,concept,gestures and habits,ritual,cultural agnostic,Courtship,49394,167,82.96815286624204,32.0,97.88999547992346
+http://www.wikidata.org/entity/Q134426,crime comic,concept,comics and anime,comics,cultural agnostic,Crime comics,7023,80,23.16883116883117,8.0,54.81193409662767
+http://www.wikidata.org/entity/Q506002,crosier,entity,fashion,clothing,cultural representative,Crozier,13587,116,39.18260869565217,26.0,46.457944068886114
+http://www.wikidata.org/entity/Q172349,crown molding,concept,architecture,building material,cultural agnostic,Crown molding,2160,11,21.0,9.0,22.34034263593352
+http://www.wikidata.org/entity/Q1142035,Crunchyroll,entity,media,streaming service,cultural representative,Crunchyroll,20696,161,48.87820512820513,22.5,68.56041159301829
+http://www.wikidata.org/entity/Q597600,Cuban Institute of Radio and Television,entity,politics,government agency,cultural exclusive,Cuban Institute of Radio and Television,4701,12,47.25,19.0,75.89699708596294
+http://www.wikidata.org/entity/Q7367,Culicidae,concept,biology,animal,cultural agnostic,Mosquito,27382,266,50.18702290076336,32.0,58.435905903566415
+http://www.wikidata.org/entity/Q8690,Cultural Revolution,entity,history,historical event,cultural representative,Cultural Revolution,91376,330,33.43251533742331,14.5,46.84257722320946
+http://www.wikidata.org/entity/Q247979,curia,concept,politics,government,cultural representative,Curia (Catholic Church),2474,27,50.74074074074074,33.0,53.55965354947875
+http://www.wikidata.org/entity/Q5203792,D. Rajarathinam,entity,politics,government,cultural exclusive,D. Rajarathinam,493,11,18.0,0.0,39.489239040528496
+http://www.wikidata.org/entity/Q11639,dance,concept,sports,sport,cultural agnostic,Dance,31514,246,40.50409836065574,18.5,57.571089194771126
+http://www.wikidata.org/entity/Q765,Dario Fo,entity,performing arts,theatrical director,cultural representative,Dario Fo,33917,209,64.65714285714286,40.0,72.99414569759995
+http://www.wikidata.org/entity/Q15647884,Dato Sri Tahir,entity,politics,government,cultural representative,Tahir (Indonesian businessman),1974,20,85.84210526315789,73.0,80.41946815744159
+http://www.wikidata.org/entity/Q850794,dhoti,concept,fashion,traditional costume,cultural exclusive,Dhoti,4972,64,33.171875,7.0,46.35816901026587
+http://www.wikidata.org/entity/Q430,dinosaur,concept,biology,animal,cultural agnostic,Dinosaur,80624,573,52.315140845070424,32.0,61.98044031807467
+http://www.wikidata.org/entity/Q3290343,Dione Lucas,entity,food,cook,cultural exclusive,Dione Lucas,1805,16,97.4375,55.5,105.54499558837453
+http://www.wikidata.org/entity/Q130857,disc jockey,concept,music,musician,cultural agnostic,Disc jockey,31524,210,28.052884615384617,21.5,30.461705015448903
+http://www.wikidata.org/entity/Q2722359,Dnyaneshwari,entity,books,religious book,cultural exclusive,Dnyaneshwari,3082,12,36.833333333333336,22.5,38.422721865525816
+http://www.wikidata.org/entity/Q386854,drummer,entity,music,musical profession,cultural agnostic,Drummer,4608,86,56.89411764705882,45.0,44.98000170779474
+http://www.wikidata.org/entity/Q15964121,Ebikon railway station,entity,transportation,station,cultural exclusive,Ebikon railway station,267,7,105.85714285714286,41.0,115.75396145202433
+http://www.wikidata.org/entity/Q1350189,egyptologist,concept,history,historian,cultural agnostic,Egyptologist,26845,184,55.02777777777778,47.5,47.14050282053469
+http://www.wikidata.org/entity/Q367660,Eid Mubarak,entity,gestures and habits,greeting,cultural representative,Eid Mubarak,5901,70,122.01449275362319,103.0,105.46673254641989
+http://www.wikidata.org/entity/Q31444654,Emmenbrücke Gersag railway station,entity,transportation,station,cultural exclusive,Emmenbrücke Gersag railway station,322,8,94.625,42.5,112.53103738524763
+http://www.wikidata.org/entity/Q1706696,engastration,concept,food,cooking technique,cultural agnostic,Engastration,552,6,67.6,33.0,64.43787706000252
+http://www.wikidata.org/entity/Q9465,ethics,concept,philosophy and religion,philosophy,cultural agnostic,Ethics,59603,378,48.74603174603175,30.0,53.245006697541264
+http://www.wikidata.org/entity/Q1371394,ethnographic film,entity,films,film genre,cultural agnostic,Ethnographic film,10329,44,30.5,16.5,37.36460405736472
+http://www.wikidata.org/entity/Q188907,etiquette,concept,gestures and habits,mores,cultural agnostic,Etiquette,20867,96,51.55789473684211,37.0,52.12832663411641
+http://www.wikidata.org/entity/Q46706,Eugène Ionesco,entity,films,film director,cultural representative,Eugène Ionesco,13860,72,41.77777777777778,26.0,46.66477698366022
+http://www.wikidata.org/entity/Q387284,European comics,concept,comics and anime,comics,cultural representative,European comics,1782,24,77.30434782608695,29.0,96.20152524444339
+http://www.wikidata.org/entity/Q24649,European political party,concept,politics,political party,cultural representative,European political party,23637,39,43.76923076923077,31.0,47.64045982385977
+http://www.wikidata.org/entity/Q38066,existentialism,concept,philosophy and religion,philosophical movement,cultural agnostic,Existentialism,57244,293,59.486111111111114,46.5,56.95593888055426
+http://www.wikidata.org/entity/Q658371,extra,concept,performing arts,actor,cultural agnostic,Extra (acting),8351,71,33.69117647058823,13.5,60.03387704232973
+http://www.wikidata.org/entity/Q693,fable,concept,literature,literary genre,cultural agnostic,Fable,11882,101,62.24242424242424,39.0,65.46447736095699
+http://www.wikidata.org/entity/Q699,fairy tale,entity,literature,literary genre,cultural agnostic,Fairy tale,43115,300,39.84406779661017,22.0,49.758291264418695
+http://www.wikidata.org/entity/Q9764,flamenco,concept,performing arts,folk dance,cultural representative,Flamenco,43450,251,33.60576923076923,14.5,50.24285603049046
+http://www.wikidata.org/entity/Q62449,flat white,concept,food,drink,cultural representative,Flat white,5213,19,85.89473684210526,70.0,74.66902037577644
+http://www.wikidata.org/entity/Q36192,folklore,entity,gestures and habits,tradition,cultural agnostic,Folklore,45135,120,36.456896551724135,14.5,50.6125226839917
+http://www.wikidata.org/entity/Q1968,Formula One,entity,sports,sport,cultural agnostic,Formula One,88394,486,33.35123966942149,31.0,34.47673455732064
+http://www.wikidata.org/entity/Q3102,Francis Coventry,entity,literature,writer,cultural exclusive,Francis Coventry,525,10,33.125,13.5,45.21182782193173
+http://www.wikidata.org/entity/Q84629,Franz Ziehl,entity,biology,biologist,cultural exclusive,Franz Ziehl,564,11,48.5,20.0,54.933141180893706
+http://www.wikidata.org/entity/Q6534,French Revolution,entity,history,historical event,cultural representative,French Revolution,83884,361,43.50847457627118,29.0,47.976232185689916
+http://www.wikidata.org/entity/Q764,fungi,concept,biology,organism,cultural agnostic,Fungus,63908,772,33.16337285902503,17.0,44.32684542111539
+http://www.wikidata.org/entity/Q169325,Funimation,entity,media,streaming service,cultural representative,Funimation,17811,156,61.54666666666667,28.5,85.79196439967764
+http://www.wikidata.org/entity/Q618710,gauze,entity,fashion,textile,cultural agnostic,Gauze,3911,44,68.69047619047619,33.0,77.95221005304593
+http://www.wikidata.org/entity/Q3204,Geneva Open Challenger,entity,sports,recurring sporting event,cultural representative,Geneva Open Challenger,659,7,62.42857142857143,27.0,66.10998874788059
+http://www.wikidata.org/entity/Q764233,geoponici,concept,books,non-fiction writer,cultural representative,Geoponici,4352,46,72.72093023255815,47.0,77.79589442787031
+http://www.wikidata.org/entity/Q3335,George Orwell,entity,literature,writer,cultural representative,George Orwell,93671,500,35.69153225806452,16.0,48.30000760609629
+http://www.wikidata.org/entity/Q1255562,Glasgow School,entity,visual arts,art movement,cultural representative,Glasgow School,6934,75,29.069444444444443,8.5,55.559609227109725
+http://www.wikidata.org/entity/Q172964,goalkeeper,concept,sports,athlete,cultural agnostic,Goalkeeper,23241,78,42.298701298701296,17.0,55.77693628812897
+http://www.wikidata.org/entity/Q14924,golf ball retriever,concept,sports,sports equipment,cultural agnostic,Golf ball retriever,11914,17,34.588235294117645,12.0,49.91647001981164
+http://www.wikidata.org/entity/Q627325,graphic designer,concept,fashion,designer,cultural agnostic,Graphic designer,9501,31,71.16666666666667,66.5,63.92134924177437
+http://www.wikidata.org/entity/Q45594,greeting,concept,gestures and habits,ritual,cultural agnostic,Greeting,10541,55,82.44444444444444,49.5,91.12235702953082
+http://www.wikidata.org/entity/Q6663,hamburger,concept,food,dish,cultural representative,Hamburger,31959,245,42.128630705394194,22.0,58.83900999587907
+http://www.wikidata.org/entity/Q655556,Heimatschutz Architecture,entity,architecture,architectural style,cultural representative,Heimatschutz Architecture,4438,17,94.23529411764706,68.0,85.03876583947894
+http://www.wikidata.org/entity/Q23565,Hessischer Rundfunk,entity,media,production company,cultural exclusive,Hessischer Rundfunk,3239,39,55.5,32.0,72.01964278839782
+http://www.wikidata.org/entity/Q51677,High Priest of Israel,entity,philosophy and religion,religious leader,cultural representative,High Priest of Israel,14027,106,37.01923076923077,23.0,45.472515107232795
+http://www.wikidata.org/entity/Q578269,HM Treasury,entity,politics,government agency,cultural exclusive,HM Treasury,25283,104,39.244897959183675,15.0,53.87704467912967
+http://www.wikidata.org/entity/Q65707,Horst P. Horst,entity,visual arts,photographer,cultural representative,Horst P. Horst,6438,74,36.24657534246575,19.0,42.57106253059759
+http://www.wikidata.org/entity/Q59243,Hyundai Motor Group,entity,transportation,automobile manufacturer,cultural representative,Hyundai Motor Group,3983,28,55.92307692307692,43.5,55.69900087277017
+http://www.wikidata.org/entity/Q132137,icon,entity,visual arts,painting,cultural representative,Icon,40711,195,48.705263157894734,31.0,60.62401359965165
+http://www.wikidata.org/entity/Q8538,Image Engine,entity,comics and anime,animation studio,cultural exclusive,Image Engine,742,14,31.214285714285715,30.5,32.17403250055763
+http://www.wikidata.org/entity/Q22865,independent city of Germany,concept,geography,city,cultural exclusive,Independent cities of Germany,21874,240,74.96666666666667,61.0,72.55089401394184
+http://www.wikidata.org/entity/Q643996,Industrial Culture Handbook,entity,books,book,cultural agnostic,Industrial Culture Handbook,1090,22,25.19047619047619,11.0,24.437712946570038
+http://www.wikidata.org/entity/Q58968,intellectual,concept,philosophy and religion,philosopher,cultural agnostic,Intellectual,21047,186,66.19021739130434,54.0,61.6004985859668
+http://www.wikidata.org/entity/Q3298,Intercontinental Champions' Supercup,entity,sports,recurring sporting event,cultural representative,Intercontinental Champions' Supercup,3451,23,94.04347826086956,74.0,82.13164314253676
+http://www.wikidata.org/entity/Q580340,Irish poetry,concept,literature,poetry,cultural representative,Irish poetry,50377,350,34.05294117647059,8.0,55.4812911513428
+http://www.wikidata.org/entity/Q400,Jenna Jameson,entity,fashion,model,cultural exclusive,Jenna Jameson,26458,181,34.73863636363637,21.0,40.515006848804525
+http://www.wikidata.org/entity/Q161439,jewelry,concept,visual arts,visual arts,cultural agnostic,Jewellery,52980,358,66.41076487252124,40.0,77.46587367243872
+http://www.wikidata.org/entity/Q10940,jockstrap,concept,fashion,clothing,cultural agnostic,Jockstrap,9322,62,55.68852459016394,37.0,63.9432486556856
+http://www.wikidata.org/entity/Q224644,Joe Kubert,entity,comics and anime,comics artist,cultural representative,Joe Kubert,14228,144,21.609929078014183,6.0,43.690200964045225
+http://www.wikidata.org/entity/Q1294605,Jugendstil,concept,visual arts,art movement,cultural representative,Jugendstil,10485,71,44.19117647058823,19.5,52.323725737819025
+http://www.wikidata.org/entity/Q84405,Karl Landsteiner,entity,biology,biologist,cultural representative,Karl Landsteiner,6874,51,42.22,15.5,62.94546528543577
+http://www.wikidata.org/entity/Q43416,Keanu Reeves,entity,films,film producer,cultural representative,Keanu Reeves,57844,499,39.11752577319588,27.0,39.77794812160124
+http://www.wikidata.org/entity/Q80866,Khalifa,concept,philosophy and religion,philosopher,cultural representative,Marabout,10143,71,75.70422535211267,44.0,83.92894284414128
+http://www.wikidata.org/entity/Q2890234,Kinpira,entity,food,cooking technique,cultural exclusive,Kinpira,682,25,41.791666666666664,26.0,39.998936617809676
+http://www.wikidata.org/entity/Q6418545,Kitty Foyle,entity,fashion,fashion trend,cultural exclusive,Kitty Foyle (dress),1447,16,24.066666666666666,11.0,28.419398695648404
+http://www.wikidata.org/entity/Q693461,KREEP,entity,food,ingredient,cultural agnostic,KREEP,3577,42,76.33333333333333,54.5,69.24341696977983
+http://www.wikidata.org/entity/Q489774,Kyobo Book Centre,entity,books,bookstore,cultural exclusive,Kyobo Book Centre,3076,22,66.0952380952381,43.0,71.21189357718325
+http://www.wikidata.org/entity/Q12494,ladyfinger,entity,food,food,cultural representative,Ladyfingers (biscuits),1652,17,49.07692307692308,46.0,17.326997780083136
+http://www.wikidata.org/entity/Q284465,lectionary,concept,books,religious book,cultural representative,Lectionary,12934,105,48.15,19.5,65.05803178701305
+http://www.wikidata.org/entity/Q17563,Leonard Law,entity,politics,law,cultural exclusive,Leonard Law,2792,36,43.0,28.0,50.560854423160215
+http://www.wikidata.org/entity/Q3086695,Les Trois Accords,entity,music,musical group,cultural exclusive,Les Trois Accords,772,8,43.0,18.0,50.36119537898202
+http://www.wikidata.org/entity/Q493858,"Lions' Commentary on UNIX 6th Edition, with Source Code",entity,books,book,cultural agnostic,A Commentary on the UNIX Operating System,5776,36,52.59375,38.5,58.76800754609177
+http://www.wikidata.org/entity/Q3257761,Loco Locass,entity,music,musical group,cultural exclusive,Loco Locass,3012,21,44.57142857142857,12.0,69.84647888222354
+http://www.wikidata.org/entity/Q1133078,logographer,concept,history,historian,cultural agnostic,Logographer (history),2474,22,68.23809523809524,56.0,67.77547299155518
+http://www.wikidata.org/entity/Q84,London,entity,geography,geographic location,cultural representative,London,93824,1256,37.15311004784689,25.0,41.78562860925017
+http://www.wikidata.org/entity/Q182357,lyric poetry,concept,literature,poetry,cultural agnostic,Lyric poetry,12543,211,45.70952380952381,35.0,48.61389576734212
+http://www.wikidata.org/entity/Q48221,Malikism,entity,philosophy and religion,religious movement,cultural representative,Maliki school,7222,62,58.016949152542374,39.0,67.09555329564145
+http://www.wikidata.org/entity/Q8274,manga,concept,comics and anime,comics,cultural representative,Manga,36230,280,30.803703703703704,17.0,44.39730540273047
+http://www.wikidata.org/entity/Q131165,Manichaeism,concept,philosophy and religion,religion,cultural agnostic,Manichaeism,55886,307,56.97324414715719,41.0,60.98351622102093
+http://www.wikidata.org/entity/Q8362,manuscript illumination,concept,visual arts,painting,cultural representative,Miniature (illuminated manuscript),37513,163,61.00613496932515,24.0,76.88222982572532
+http://www.wikidata.org/entity/Q3281,Marit Paulsen,entity,literature,writer,cultural exclusive,Marit Paulsen,1762,14,40.785714285714285,27.5,57.52661318459306
+http://www.wikidata.org/entity/Q11417,martial art,concept,gestures and habits,tradition,cultural agnostic,Martial arts,25491,250,41.170731707317074,17.5,52.62070248826895
+http://www.wikidata.org/entity/Q98714302,master of the works,concept,architecture,architect,cultural agnostic,Master builder,2255,5,79.5,95.5,28.587584717845612
+http://www.wikidata.org/entity/Q162875,mausoleum,concept,history,monument,cultural agnostic,Mausoleum,2104,32,79.4375,58.5,82.9487558300304
+http://www.wikidata.org/entity/Q257153,Mausoleum of Saladin,entity,architecture,architectural structure,cultural exclusive,Mausoleum of Saladin,984,13,97.16666666666667,86.5,82.25350380919276
+http://www.wikidata.org/entity/Q76574,maypole,concept,gestures and habits,ritual,cultural representative,Maypole,30188,184,68.92737430167598,48.0,76.48149649760738
+http://www.wikidata.org/entity/Q2321,Mega-Łada Togliatti,entity,sports,sports club,cultural exclusive,Mega-Lada Togliatti,1109,10,32.7,24.5,32.13113754600045
+http://www.wikidata.org/entity/Q203827,Melbourne shuffle,entity,performing arts,dance,cultural representative,Melbourne shuffle,2259,13,35.083333333333336,20.0,45.483437156349076
+http://www.wikidata.org/entity/Q2185917,mennonites in Bolivia,entity,philosophy and religion,religious movement,cultural exclusive,Mennonites in Bolivia,5609,38,82.28947368421052,49.5,99.64804059518599
+http://www.wikidata.org/entity/Q873,Meryl Streep,entity,films,film producer,cultural representative,Meryl Streep,66898,529,45.03415559772296,35.0,42.65174684484759
+http://www.wikidata.org/entity/Q3333382,mesocosm,concept,geography,environment,cultural agnostic,Mesocosm,5065,11,23.272727272727273,17.0,21.983840797238937
+http://www.wikidata.org/entity/Q344299,Metro Istanbul,entity,transportation,transport company,cultural exclusive,Metro Istanbul,694,7,92.16666666666667,52.0,110.21103493853155
+http://www.wikidata.org/entity/Q5592,Michelangelo,entity,literature,poet,cultural representative,Michelangelo,43220,234,38.38528138528139,26.0,41.64448119097428
+http://www.wikidata.org/entity/Q6836765,Michele Jolin,entity,politics,policy,cultural exclusive,Michele Jolin,3127,19,34.64705882352941,14.0,47.545570928098996
+http://www.wikidata.org/entity/Q220011,Mike DeCarlo,entity,comics and anime,comics artist,cultural exclusive,Mike DeCarlo,2691,41,21.375,9.0,28.08174451489793
+http://www.wikidata.org/entity/Q835,Mikhail Bulgakov,entity,performing arts,theatrical director,cultural representative,Mikhail Bulgakov,22471,116,51.6822429906542,34.0,58.615585648787146
+http://www.wikidata.org/entity/Q1750272,milk bar,concept,architecture,building,cultural agnostic,Milk bar,4722,43,84.02380952380952,39.5,97.62476464095478
+http://www.wikidata.org/entity/Q674067,mime artist,concept,performing arts,actor,cultural agnostic,Mime artist,6505,53,52.0,35.5,52.47742371725197
+http://www.wikidata.org/entity/Q1628649,Minhag,concept,gestures and habits,mores,cultural exclusive,Minhag,5466,43,69.92857142857143,28.0,88.83274622976084
+http://www.wikidata.org/entity/Q460039,Mixed team,concept,sports,sports team,cultural agnostic,Mixed teams at the Olympics,3280,117,15.801724137931034,13.0,17.143019001203502
+http://www.wikidata.org/entity/Q687,Molière,entity,performing arts,theatrical director,cultural representative,Molière,25076,136,35.4921875,17.0,46.14972171058937
+http://www.wikidata.org/entity/Q429088,mons,concept,geography,mountain,cultural agnostic,Mons (planetary nomenclature),2619,27,47.23076923076923,19.0,66.9507900179204
+http://www.wikidata.org/entity/Q23402,Musée d'Orsay,entity,media,production company,cultural representative,Musée d'Orsay,8003,74,47.71830985915493,27.0,62.24399582981265
+http://www.wikidata.org/entity/Q2743,musical,concept,performing arts,theatrical genre,cultural agnostic,Musical theatre,65829,612,27.845,15.0,36.717311652679584
+http://www.wikidata.org/entity/Q229724,Naoko Takeuchi,entity,comics and anime,comics artist,cultural representative,Naoko Takeuchi,9389,44,37.53488372093023,24.0,49.725455011988274
+http://www.wikidata.org/entity/Q616753,Naryshkin Baroque,entity,architecture,architectural style,cultural representative,Naryshkin Baroque,5204,35,44.02857142857143,20.0,63.171641790684944
+http://www.wikidata.org/entity/Q479102,National Festival of Polish Song in Opole,entity,music,music festival,cultural exclusive,National Festival of Polish Song in Opole,1797,10,96.6,65.5,91.1374785694667
+http://www.wikidata.org/entity/Q56000,naturalism,entity,philosophy and religion,philosophical movement,cultural agnostic,Naturalism (philosophy),23931,157,48.798701298701296,28.5,56.742569725846884
+http://www.wikidata.org/entity/Q194285,Nebula Award,concept,literature,literary award,cultural exclusive,Nebula Award,9665,34,22.424242424242426,11.0,30.37246590305337
+http://www.wikidata.org/entity/Q25648,New York Film Festival,entity,films,film festival,cultural representative,New York Film Festival,4664,27,45.22222222222222,29.0,55.71709846831936
+http://www.wikidata.org/entity/Q264238,newsletter,concept,media,magazine,cultural agnostic,Newsletter,3014,34,44.96969696969697,27.0,48.607571955646215
+http://www.wikidata.org/entity/Q265169,Nitro Records,entity,music,record label,cultural exclusive,Nitro Records,403,9,31.666666666666668,29.0,24.221202832779934
+http://www.wikidata.org/entity/Q518390,nod,concept,gestures and habits,gesture,cultural agnostic,Nod (gesture),3073,31,135.6451612903226,110.0,117.51638139400706
+http://www.wikidata.org/entity/Q1377546,nunsploitation,concept,films,film genre,cultural representative,Nunsploitation,5341,52,36.04545454545455,18.0,52.93347220180104
+http://www.wikidata.org/entity/Q216929,Oliver & Company,entity,comics and anime,animated film,cultural representative,Oliver & Company,31163,144,40.986111111111114,30.0,40.006247100906194
+http://www.wikidata.org/entity/Q2425502,onnagata,concept,films,acting style,cultural exclusive,Onnagata,4736,14,30.571428571428573,27.0,21.5131663529712
+http://www.wikidata.org/entity/Q1344,opera,concept,performing arts,theatrical genre,cultural representative,Opera,64811,650,42.55295950155763,30.0,50.29004192468447
+http://www.wikidata.org/entity/Q1772945,Opera dei Pupi,entity,performing arts,theatrical genre,cultural exclusive,Opera dei Pupi,17024,38,85.42105263157895,84.0,58.71816341372949
+http://www.wikidata.org/entity/Q470137,original English-language manga,concept,comics and anime,manga,cultural representative,Original English-language manga,9532,80,38.328947368421055,12.0,74.77041846772917
+http://www.wikidata.org/entity/Q43091,orthography,concept,politics,policy,cultural agnostic,Orthography,8864,80,66.9493670886076,43.0,73.26143557587032
+http://www.wikidata.org/entity/Q27207,Osteichthyes,concept,biology,fish,cultural agnostic,Osteichthyes,8535,143,48.02985074626866,33.0,54.78518978136982
+http://www.wikidata.org/entity/Q29536,paganism,concept,philosophy and religion,religion,cultural representative,Paganism,30777,278,45.74031007751938,20.5,60.325396736173396
+http://www.wikidata.org/entity/Q182370,paint-on-glass animation,entity,comics and anime,animation technique,cultural agnostic,Paint-on-glass animation,325,7,102.71428571428571,57.0,103.69972349558712
+http://www.wikidata.org/entity/Q130898,Palace of Iturbide,entity,visual arts,art gallery,cultural representative,Palace of Iturbide,3198,16,71.06666666666666,45.0,90.87534808125298
+http://www.wikidata.org/entity/Q7845,pataphysics,concept,philosophy and religion,philosophy,cultural representative,'Pataphysics,14787,80,67.7948717948718,48.5,75.07130951410832
+http://www.wikidata.org/entity/Q557,Patti Smith,entity,visual arts,photographer,cultural representative,Patti Smith,31185,306,45.87375415282392,25.0,55.41846852221917
+http://www.wikidata.org/entity/Q272,Paul Morand,entity,literature,poet,cultural representative,Paul Morand,14887,80,67.08974358974359,49.0,70.88853400783802
+http://www.wikidata.org/entity/Q84809,Peter Schuster,entity,biology,biologist,cultural exclusive,Peter Schuster,1003,18,94.61111111111111,42.0,110.73498839265297
+http://www.wikidata.org/entity/Q23407,philosophy of mind,concept,philosophy and religion,philosophy,cultural agnostic,Philosophy of mind,54688,249,52.1260162601626,33.0,58.534650063988224
+http://www.wikidata.org/entity/Q551835,physician writer,concept,books,non-fiction writer,cultural agnostic,Physician writer,3174,14,34.214285714285715,10.0,43.936933002118536
+http://www.wikidata.org/entity/Q486748,pianist,concept,music,musical profession,cultural agnostic,Pianist,3760,63,77.54098360655738,52.0,75.0094144409235
+http://www.wikidata.org/entity/Q7194764,pin and hanger assembly,concept,architecture,construction,cultural agnostic,Pin and hanger assembly,2390,9,64.55555555555556,5.0,108.65962258468835
+http://www.wikidata.org/entity/Q2095595,Pinewood Toronto Studios,entity,media,film studio,cultural exclusive,Pinewood Toronto Studios,2721,15,35.07692307692308,13.0,48.099994464195326
+http://www.wikidata.org/entity/Q12024,Pinus,concept,biology,tree,cultural agnostic,Pine,19117,253,42.908,26.0,48.799544424102976
+http://www.wikidata.org/entity/Q127552,Pixar,entity,comics and anime,animation studio,cultural representative,Pixar,41354,254,38.100401606425706,28.0,37.419927360887996
+http://www.wikidata.org/entity/Q200751,pixilation,concept,comics and anime,animation technique,cultural agnostic,Pixilation,1917,20,50.421052631578945,18.0,82.99227344472223
+http://www.wikidata.org/entity/Q756,plant,concept,biology,organism,cultural agnostic,Plant,23026,318,65.94637223974763,55.0,56.23744411785404
+http://www.wikidata.org/entity/Q3307548,Po,concept,food,cook,cultural representative,Po (Kung Fu Panda),15587,42,49.2,46.0,34.889253359738156
+http://www.wikidata.org/entity/Q19546,pope,concept,philosophy and religion,religious leader,cultural representative,Pope,72775,460,43.479212253829324,30.0,49.18299799888626
+http://www.wikidata.org/entity/Q27114292,posting style,concept,literature,writing style,cultural agnostic,Posting style,21987,41,35.67567567567568,19.0,46.82691190541521
+http://www.wikidata.org/entity/Q30461,president,entity,politics,politician,cultural agnostic,President (government title),29592,269,86.00371747211896,45.0,100.09361781945857
+http://www.wikidata.org/entity/Q38817,Prishtina International Film Festival,entity,films,film festival,cultural exclusive,Prishtina International Film Festival,5680,32,68.9,41.5,75.73081715303663
+http://www.wikidata.org/entity/Q10892,protist,concept,biology,organism,cultural agnostic,Protist,73295,598,31.39554794520548,12.0,45.16384988399009
+http://www.wikidata.org/entity/Q12516,pyramid,entity,architecture,building,cultural agnostic,Pyramid,14627,180,69.6685393258427,47.0,73.27435913643458
+http://www.wikidata.org/entity/Q434,Pyrus,concept,biology,tree,cultural agnostic,Pear,12474,121,63.09322033898305,51.5,60.62680887228188
+http://www.wikidata.org/entity/Q41800,Raquel Argandoña,entity,fashion,model,cultural exclusive,Raquel Argandoña,591,7,14.0,6.0,21.69265840258931
+http://www.wikidata.org/entity/Q4692,Renaissance,concept,visual arts,art movement,cultural representative,Renaissance,65817,579,58.30998248686515,43.0,59.18752491238026
+http://www.wikidata.org/entity/Q11707,restaurant,concept,architecture,building,cultural agnostic,Restaurant,27458,160,57.4203821656051,23.0,80.52994279445474
+http://www.wikidata.org/entity/Q66854,Rietheim,entity,geography,neighborhood,cultural exclusive,"Rietheim, Aargau",7066,52,46.62,27.0,64.86413184495727
+http://www.wikidata.org/entity/Q383845,rigaudon,concept,performing arts,folk dance,cultural exclusive,Rigaudon,1086,17,31.928571428571427,27.5,27.973110266096327
+http://www.wikidata.org/entity/Q66768,Rossens,entity,geography,neighborhood,cultural exclusive,"Rossens, Fribourg",8665,49,68.93333333333334,21.0,93.87163812592408
+http://www.wikidata.org/entity/Q18702,Royal free city,concept,geography,city,cultural exclusive,Royal free city,1067,15,59.714285714285715,42.0,67.23352540790576
+http://www.wikidata.org/entity/Q54829,RTVE,entity,media,media company,cultural exclusive,RTVE,11727,103,49.8780487804878,20.5,74.89657751207335
+http://www.wikidata.org/entity/Q172582,Sahitya Akademi Award,entity,literature,literary award,cultural exclusive,Sahitya Akademi Award,9431,80,27.2625,7.0,52.10200182094734
+http://www.wikidata.org/entity/Q1509703,Saintonge,entity,geography,geographic location,cultural exclusive,County of Saintonge,3471,51,47.297872340425535,37.0,55.16625351959256
+http://www.wikidata.org/entity/Q11122366,sandalwood,concept,architecture,construction,cultural agnostic,Sandalwood,15464,121,54.965811965811966,34.0,64.70220165925103
+http://www.wikidata.org/entity/Q25814,seed plant,concept,biology,plant,cultural agnostic,Seed plant,3893,52,52.256410256410255,22.0,67.02227641487336
+http://www.wikidata.org/entity/Q237338,seinen,concept,comics and anime,manga,cultural representative,Seinen manga,2999,46,29.046511627906977,18.0,41.36561513791662
+http://www.wikidata.org/entity/Q145234,Seiun Awards,entity,literature,literary award,cultural exclusive,Seiun Award,2876,7,71.57142857142857,52.0,106.6367092285862
+http://www.wikidata.org/entity/Q15761,servus,concept,gestures and habits,greeting,cultural representative,Servus,1999,40,144.075,158.5,108.33937130609537
+http://www.wikidata.org/entity/Q1503157,Shakespeare and Company,entity,books,bookstore,cultural representative,Shakespeare and Company (bookstore),7548,77,43.675324675324674,32.0,43.842232369945535
+http://www.wikidata.org/entity/Q7372,shark,concept,biology,fish,cultural agnostic,Shark,51803,414,50.55911330049261,31.5,64.48866859797066
+http://www.wikidata.org/entity/Q211367,sheet metal,entity,architecture,building material,cultural agnostic,Sheet metal,19121,78,44.60526315789474,20.5,62.21399380308861
+http://www.wikidata.org/entity/Q2278256,Shepperton Studios,entity,media,film studio,cultural exclusive,Shepperton Studios,6774,76,37.608108108108105,34.0,37.614264677533654
+http://www.wikidata.org/entity/Q231302,shōnen,concept,comics and anime,manga,cultural representative,Shōnen manga,19666,131,29.272,22.0,29.800772070535356
+http://www.wikidata.org/entity/Q23589,Showtime,entity,media,production company,cultural exclusive,Showtime (TV network),45453,303,33.42857142857143,19.0,46.38452122770924
+http://www.wikidata.org/entity/Q340709,shrug,concept,gestures and habits,gesture,cultural agnostic,Shrug,1306,19,122.27777777777777,69.5,126.045320577585
+http://www.wikidata.org/entity/Q737377,Singer House,entity,books,bookstore,cultural representative,Singer House,8065,62,71.70212765957447,27.0,98.25821710938794
+http://www.wikidata.org/entity/Q139932,single whip law,entity,politics,law,cultural exclusive,Single whip law,2510,18,87.875,69.5,82.15752780482138
+http://www.wikidata.org/entity/Q124619225,Siuuu,entity,gestures and habits,gesture,cultural representative,Siuuu,67328,443,48.15560640732266,38.0,44.73648802729948
+http://www.wikidata.org/entity/Q15783,skateboard,concept,sports,sports equipment,cultural agnostic,Skateboard,5204,21,48.6,28.5,57.64408035522815
+http://www.wikidata.org/entity/Q1661080,small press,concept,literature,publisher,cultural agnostic,Small press,7924,54,52.81132075471698,23.0,80.72502981032741
+http://www.wikidata.org/entity/Q17084639,socks and sandals,concept,fashion,fashion trend,cultural agnostic,Socks and sandals,2792,30,65.0,36.0,78.97402453797159
+http://www.wikidata.org/entity/Q7554349,software publisher,concept,literature,publisher,cultural agnostic,Software publisher,1153,6,25.8,22.0,25.26974475533934
+http://www.wikidata.org/entity/Q178406,solo dance,entity,performing arts,dance,cultural agnostic,Solo dance,878,4,69.33333333333333,11.0,83.91397711678046
+http://www.wikidata.org/entity/Q359293,Soo Line Railroad,entity,transportation,transport company,cultural exclusive,Soo Line Railroad,5716,57,46.68421052631579,16.0,72.60374498454085
+http://www.wikidata.org/entity/Q884,South Korea,entity,politics,government agency,cultural representative,South Korea,90525,703,43.96148359486448,27.0,49.70365761873611
+http://www.wikidata.org/entity/Q236913,space rock,concept,music,music genre,cultural representative,Space rock,5413,80,31.6375,20.0,39.871118541495676
+http://www.wikidata.org/entity/Q27185,Stone Bell House,concept,visual arts,art gallery,cultural exclusive,Stone Bell House,14705,80,42.5375,34.0,45.07381272701478
+http://www.wikidata.org/entity/Q6539,Storming of the Bastille,entity,history,historical event,cultural representative,Storming of the Bastille,22600,107,38.98095238095238,23.0,51.45797748369069
+http://www.wikidata.org/entity/Q182361,Studio 4°C,entity,comics and anime,animation studio,cultural exclusive,Studio 4°C,1390,17,19.6875,12.0,29.672627853798186
+http://www.wikidata.org/entity/Q465501,stunt performer,concept,performing arts,actor,cultural agnostic,Stunt performer,20162,167,36.51829268292683,19.5,50.65274804874802
+http://www.wikidata.org/entity/Q1140845,subterranean river,concept,geography,river,cultural agnostic,Subterranean river,2876,38,52.526315789473685,37.0,58.77375749973043
+http://www.wikidata.org/entity/Q9603,Sufism,concept,philosophy and religion,religious movement,cultural representative,Sufism,69966,378,47.128686327077745,22.0,62.142097456477515
+http://www.wikidata.org/entity/Q1365,Swept Away,entity,films,film,cultural representative,Swept Away (1974 film),6839,37,64.29729729729729,53.0,60.05711914721656
+http://www.wikidata.org/entity/Q11254,table salt,concept,food,ingredient,cultural agnostic,Salt,27303,264,60.79389312977099,40.0,68.62429160159425
+http://www.wikidata.org/entity/Q2465121,Tajikfilm,entity,media,film studio,cultural exclusive,Tajikfilm,776,9,128.625,135.5,101.20886510083986
+http://www.wikidata.org/entity/Q7679703,Talk to Me,entity,visual arts,happening,cultural exclusive,Talk to Me (NYC),1397,8,105.66666666666667,83.0,91.10189655301122
+http://www.wikidata.org/entity/Q1568338,technical writer,concept,books,non-fiction writer,cultural agnostic,Technical writer,18263,29,35.32142857142857,7.5,69.53521901650609
+http://www.wikidata.org/entity/Q7696211,Telegram style,concept,literature,writing style,cultural agnostic,Telegram style,4313,16,63.07142857142857,37.5,55.883123296642566
+http://www.wikidata.org/entity/Q674413,tell,concept,gestures and habits,body language,cultural agnostic,Tell (poker),2416,6,22.0,7.0,32.60061349115995
+http://www.wikidata.org/entity/Q175122,terrestrial television,concept,media,television,cultural agnostic,Terrestrial television,9970,77,43.19736842105263,24.0,61.47122128042009
+http://www.wikidata.org/entity/Q595,The Intouchables,entity,films,film,cultural representative,The Intouchables,11672,95,49.204301075268816,32.0,53.327262921962
+http://www.wikidata.org/entity/Q270844,The World,entity,architecture,architectural structure,cultural representative,The World (archipelago),7342,42,118.925,79.0,99.21199209269008
+http://www.wikidata.org/entity/Q1074069,tidal river,concept,geography,river,cultural agnostic,Tidal river,4192,17,83.0625,37.5,100.24935707399824
+http://www.wikidata.org/entity/Q187120,time shifting,concept,media,television,cultural agnostic,Time shifting,3738,25,31.48,6.0,59.50134116135535
+http://www.wikidata.org/entity/Q3267562,Tina Nordström,entity,food,cook,cultural representative,Tina Nordström,961,12,25.6,6.0,28.692159207699934
+http://www.wikidata.org/entity/Q685935,trade magazine,concept,media,magazine,cultural agnostic,Trade magazine,1430,15,32.666666666666664,29.0,31.851042194705165
+http://www.wikidata.org/entity/Q184781,traditional animation,concept,comics and anime,animation technique,cultural agnostic,Traditional animation,38492,218,55.785714285714285,35.0,68.81768035361044
+http://www.wikidata.org/entity/Q235858,traditional folk music,entity,music,music genre,cultural agnostic,Traditional folk music,52109,472,54.743589743589745,20.0,80.68638812178534
+http://www.wikidata.org/entity/Q870,train,concept,transportation,mode of transport,cultural agnostic,Train,30090,208,39.91,22.0,52.31999522171232
+http://www.wikidata.org/entity/Q28543,transport in Hungary,entity,transportation,transport,cultural agnostic,Transport in Hungary,4442,67,45.62686567164179,16.0,62.36264568428083
+http://www.wikidata.org/entity/Q479716,university press,concept,literature,publisher,cultural agnostic,University press,10554,66,56.166666666666664,14.0,91.15264974511469
+http://www.wikidata.org/entity/Q13178,Vaccinium sect. Cyanococcus,concept,food,food,cultural agnostic,Blueberry,19816,175,57.56,23.0,74.797827317567
+http://www.wikidata.org/entity/Q194363,Vaslav Nijinsky,entity,performing arts,choreographer,cultural representative,Vaslav Nijinsky,38981,147,59.65693430656934,36.0,72.71998469845225
+http://www.wikidata.org/entity/Q49024,Venice Film Festival,entity,films,film festival,cultural representative,Venice Film Festival,13484,76,46.38666666666666,34.0,50.782383647175216
+http://www.wikidata.org/entity/Q8072,volcano,concept,geography,mountain,cultural agnostic,Volcano,41011,315,57.04153354632588,35.0,68.65174559126744
+http://www.wikidata.org/entity/Q246,Volkswagen,entity,transportation,automobile manufacturer,cultural representative,Volkswagen,60738,372,35.294765840220386,20.0,50.72905014956815
+http://www.wikidata.org/entity/Q177764,Voodoo Church,concept,philosophy and religion,religion,cultural representative,West African Vodún,30394,74,60.794520547945204,36.0,77.116343150687
+http://www.wikidata.org/entity/Q375,waffle,concept,food,dish,cultural representative,Waffle,22880,89,77.6590909090909,42.5,87.01265403842086
+http://www.wikidata.org/entity/Q59183,Wanderer,entity,transportation,automobile manufacturer,cultural exclusive,Wanderer (company),3769,35,47.78787878787879,30.0,55.14760225879633
+http://www.wikidata.org/entity/Q911871,wilderness,concept,geography,environment,cultural agnostic,Wilderness,38105,171,55.32941176470588,26.0,73.20533381970182
+http://www.wikidata.org/entity/Q1552567,wolf pit,entity,architecture,construction,cultural agnostic,Wolf pit,3367,22,99.6875,102.5,82.80754702169362
+http://www.wikidata.org/entity/Q36180,writer,concept,visual arts,artist,cultural agnostic,Writer,46261,318,68.29299363057325,54.5,59.916370714298175
+http://www.wikidata.org/entity/Q156316,Würzburg Residence,entity,history,museum,cultural representative,Würzburg Residence,18019,122,54.5,33.0,67.14773983923243
+http://www.wikidata.org/entity/Q56911,xunfu,concept,politics,politician,cultural exclusive,Grand coordinator and provincial governor,3346,21,75.21052631578948,53.0,70.32075305519209
+http://www.wikidata.org/entity/Q377,Yanka Kupala,entity,literature,poet,cultural representative,Yanka Kupala,7331,57,66.57777777777778,31.0,76.2905233342732
+http://www.wikidata.org/entity/Q615394,Yếm,concept,fashion,clothing,cultural exclusive,Yếm,3664,28,35.96153846153846,20.5,38.5172097092583
