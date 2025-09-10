@@ -1,4 +1,4 @@
-# Automatic Words Cultural Classification: Agnostic, Representative, Exclusive
+# Automatic Wikidata Items Cultural Classification: Agnostic, Representative, Exclusive
 
 ##### Multilingual Natural Language Processing - Master in Artificial Intelligence and Robotics, Sapienza University of Rome
 
@@ -40,7 +40,7 @@ This repo is a compact, reproducible implementation of a knowledge augmented cla
 
 ## Results
 
-| Config             | USE\_GRAPH | USE\_EMBED | USE\_SITELINK | Accuracy ↑ | Precision ↑ | Recall ↑ | F1-score ↑ |
+| Config             | USE\_GRAPH | USE\_EMBED | USE\_SITELINK | Accuracy   | Precision   | Recall   | F1-score   |
 | ------------------ | :--------: | :--------: | :-----------: | ---------: | ----------: | -------: | ---------: |
 | Sitelinks only     |    False   |    False   |      True     |     0.6522 |      0.6524 |   0.6462 |     0.6444 |
 | Graph only         |    True    |    False   |     False     |     0.5819 |      0.5816 |   0.5819 |     0.5779 |
@@ -52,7 +52,7 @@ This repo is a compact, reproducible implementation of a knowledge augmented cla
 
 ---
 
-| Model                 | Accuracy ↑ | F1-score ↑ | Precision ↑ |
+| Model                 | Accuracy   | F1-score   | Precision   |
 | --------------------- | ---------: | ---------: | ----------: |
 | XGBoost (Final)       |       0.77 |       0.76 |        0.76 |
 | Stacking (XGB + NN)   |       0.76 |       0.76 |        0.76 |
